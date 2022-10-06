@@ -2,40 +2,45 @@
 
 What is Memetoberfest?
 
-It's a Meme contest sponsored by [daily.dev !](https://daily.dev)
+A Meme contest sponsored by [daily.dev!](https://daily.dev)
 
-Everyone can participate by making a PR to the table below.
+Everyone can participate by making a PR to update the [table at the end of this readme](#entries) with the required details.
 
-Only Memes realted to Development will be accepted.
+**Only memes related to software development will be accepted.**
 
-## Prerequisite
-
+## Prerequisites
 - Knowing what [a meme is.](https://en.wikipedia.org/wiki/Internet_meme)
-- Having a Twitter handle where we can contact you. follow us to get notified about the contest! [daily.dev on Twitter](https://twitter.com/dailydotdev)
+- Having a Twitter handle where we can contact you. 
+
+Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?screen_name=dailydotdev) to get notified about the contest!
 
 ## Rules
 
-- No NSFWS memes
-- No personal offensive memes. (we don't want to offend anyone)
-- No memes that are not related to development
+- No Not Safe For Work (NSFW) memes
+- No offensive memes or memes that target a specific individual. (we don't want to offend anyone)
+- Only memes related to software development will be counted.
 
 ## Prizes
 
-The best mems will get daily.dev SWAGS!
+The best memes will get daily.dev SWAG!
 
 ## How to participate
 
-Make a PR changing the table below with:
+Make a PR adding a row to the [table below](#entries) with:
 - Meme image (or link to it)
-- Twitter handle
-- notes (optional)
+- Your Twitter handle
+- notes (optional - explain how we can use this meme)
 
 that's it! 
+
+Here is a quick [guide on tables in markdown](https://www.markdownguide.org/extended-syntax/#tables).
 
 ## When will be the winners announced?
 
 The winners will be announced on the 7th of November
 
+
+## Entries
 
 Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
