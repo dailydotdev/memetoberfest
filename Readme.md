@@ -45,4 +45,4 @@ The winners will be announced on the 7th of November
 Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
 | `<Meme link>` | `<Twitter handle>` | `<Notes>` |
-
+|![Meme](https://external-preview.redd.it/Ii1zae7tWgUklTi6eSE_7YHoENA4ngh5abWIEUrA_jU.png?width=640&crop=smart&auto=webp&s=528f29a6ce5b042bb0c827031d46fcfff60f59aa)|@PallaMohammad| N/A  |
