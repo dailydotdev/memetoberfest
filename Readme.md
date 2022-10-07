@@ -45,4 +45,6 @@ The winners will be announced on the 7th of November
 Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
 | `<Meme link>` | `<Twitter handle>` | `<Notes>` |
+![Untitled-8-1](https://user-images.githubusercontent.com/32828966/194521151-c5b0f70c-d17b-4357-9de7-114b00d8c598.png)|@MeetwithYash|-|
+
 
