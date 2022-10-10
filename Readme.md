@@ -39,6 +39,9 @@ Here is a quick [guide on tables in markdown](https://www.markdownguide.org/exte
 
 The winners will be announced on the 7th of November
 
+## Credits
+[Hacktoberfest](https://hacktoberfest.com/?ref=dailydev) is a registered trademark of [DigitalOcean](https://www.digitalocean.com/?ref=dailydev). We would like to give them a huge shout out and credit for supporting the global open source community through the Hacktoberfest initiative!
+If you haven’t signed up yet, we highly recommend every developer to [check it out](https://hacktoberfest.com/participation/?ref=dailydev) :raised_hands:
 
 ## Entries
 
