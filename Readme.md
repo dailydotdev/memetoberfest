@@ -46,6 +46,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
 | `<Meme image or link>` | `<Twitter handle>` | `<Notes>` |
+| [npm Install meme](https://twitter.com/vivekpal0x/status/1579836408193159169?s=20&t=s_4DvX2hQzi1sBkMvaox1g) | [@vivekpal0x](https://twitter.com/vivekpal0x) | When you run <code> npm i </code>command 😂
 
 ## Credits
 [Hacktoberfest](https://hacktoberfest.com/?ref=dailydev) is a registered trademark of [DigitalOcean](https://www.digitalocean.com/?ref=dailydev). We would like to give them a huge shout out and credit for supporting the global open source community through the Hacktoberfest initiative!
