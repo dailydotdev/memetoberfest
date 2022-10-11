@@ -46,6 +46,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
 | `<Meme image or link>` | `<Twitter handle>` | `<Notes>` |
+![JavaScript Frameworks Meme](https://833250.smushcdn.com/1694534/wp-content/uploads/2021/06/7-768x773.png?lossy=1&strip=1&webp=1)|[@muhib7353](https://twitter.com/muhib7353)| Meme shows Javascript developers are always curious to new frameworks 
 
 ## Credits
 [Hacktoberfest](https://hacktoberfest.com/?ref=dailydev) is a registered trademark of [DigitalOcean](https://www.digitalocean.com/?ref=dailydev). We would like to give them a huge shout out and credit for supporting the global open source community through the Hacktoberfest initiative!
