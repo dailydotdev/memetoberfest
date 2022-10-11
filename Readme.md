@@ -1,5 +1,7 @@
 # Welcome to Memetoberfest!
 
+![twitter_hactoberfest__1200x627](https://user-images.githubusercontent.com/18360871/195051948-5c6983a0-5b07-4b09-acf9-1e46d985008d.png)
+
 ## What is Memetoberfest?
 
 An open source meme contest sponsored by [daily.dev](https://daily.dev)!
@@ -20,7 +22,7 @@ An open source meme contest sponsored by [daily.dev](https://daily.dev)!
 
 ## Prizes
 
-The best memes will get daily.dev swag!
+The 10 best memes will get daily.dev SWAG!
 
 ## How to participate
 
