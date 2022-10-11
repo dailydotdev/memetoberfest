@@ -46,7 +46,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
 | `<Meme image or link>` | `<Twitter handle>` | `<Notes>` |
-| <img src="https://i.ibb.co/wL5jghr/cpp.png" width="100"> | `https://twitter.com/aanxand` | `A meme that you usually don't see, but can totally relate to as well` |
+| <img src="https://i.ibb.co/wL5jghr/cpp.png" width="300"> | `https://twitter.com/aanxand` | `A meme that you usually don't see, but can totally relate to as well` |
 
 ## Credits
 [Hacktoberfest](https://hacktoberfest.com/?ref=dailydev) is a registered trademark of [DigitalOcean](https://www.digitalocean.com/?ref=dailydev). We would like to give them a huge shout out and credit for supporting the global open source community through the Hacktoberfest initiative!
