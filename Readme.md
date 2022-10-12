@@ -46,6 +46,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
 | `<Meme image or link>` | `<Twitter handle>` | `<Notes>` |
+|![Link](https://raw.githubusercontent.com/0-0Rohit-Roshan/0-0Rohit-Roshan/main/Res/I%20am%20the%20__________%20Developer..jpg) | [00RohitRoshan](https://twitter.com/00RohitRoshan) | Figuring out which developer you are. when you do many.
 
 ## Credits
 [Hacktoberfest](https://hacktoberfest.com/?ref=dailydev) is a registered trademark of [DigitalOcean](https://www.digitalocean.com/?ref=dailydev). We would like to give them a huge shout out and credit for supporting the global open source community through the Hacktoberfest initiative!
