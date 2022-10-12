@@ -45,7 +45,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 
 Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
-| `<Meme image or link>` | `<Twitter handle>` | `<Notes>` |
+| ![meme](https://pbs.twimg.com/media/Fe37M7dWYAAT5up?format=jpg&name=4096x4096) | [@merouanezouaid](https://twitter.com/merouanezouaid) | - Do you remember when we were memorizing the periodic table? haha .. me: We still do tho..  What? but you're a computer science major!?? me: ... |
 
 ## Credits
 [Hacktoberfest](https://hacktoberfest.com/?ref=dailydev) is a registered trademark of [DigitalOcean](https://www.digitalocean.com/?ref=dailydev). We would like to give them a huge shout out and credit for supporting the global open source community through the Hacktoberfest initiative!
