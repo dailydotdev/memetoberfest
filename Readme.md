@@ -45,7 +45,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 
 Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
-| `<Meme image or link>` | `<Twitter handle>` | `<Notes>` |
+| ![meme](https://user-images.githubusercontent.com/51878265/195262580-f2fb43f2-71e0-4d50-afa4-26266eb62395.png)| [Pradumna Saraf](https://twitter.com/pradumna_saraf) | No chrome tabs, only daily.dev tabs |
 
 ## Credits
 [Hacktoberfest](https://hacktoberfest.com/?ref=dailydev) is a registered trademark of [DigitalOcean](https://www.digitalocean.com/?ref=dailydev). We would like to give them a huge shout out and credit for supporting the global open source community through the Hacktoberfest initiative!
