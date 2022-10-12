@@ -42,10 +42,7 @@ The winners will be announced on the 7th of November.
 Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?screen_name=dailydotdev) to get notified about the contest!
 
 ## Entries
-
-Meme Image or link  | Twitter handle | Notes |
-| --- | --- | --- |
-| `<Meme image or link>` | `<Twitter handle>` | `<Notes>` |
+![AI is taking over world by storm](https://techresearchonline.com/oadroowh/2022/08/ai-meme.webp)|[@ishan_is_me](https://twitter.com/ishan_is_me)| Meme shows AI taking over world by storm with its image processing ability
 
 ## Credits
 [Hacktoberfest](https://hacktoberfest.com/?ref=dailydev) is a registered trademark of [DigitalOcean](https://www.digitalocean.com/?ref=dailydev). We would like to give them a huge shout out and credit for supporting the global open source community through the Hacktoberfest initiative!
