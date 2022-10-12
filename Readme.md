@@ -45,7 +45,10 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 
 Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
-| `<Meme image or link>` | `<Twitter handle>` | `<Notes>` |
+| ![Jesulonimii's meme contribution](https://user-images.githubusercontent.com/70331030/195318282-8dc56d8b-0399-4756-b573-3d7adda22384.jpg) | @jesulonimii | me when applying for a remote job 😅 |
+
+
+
 
 ## Credits
 [Hacktoberfest](https://hacktoberfest.com/?ref=dailydev) is a registered trademark of [DigitalOcean](https://www.digitalocean.com/?ref=dailydev). We would like to give them a huge shout out and credit for supporting the global open source community through the Hacktoberfest initiative!
