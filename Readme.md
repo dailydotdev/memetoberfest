@@ -46,6 +46,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
 | `<Meme image or link>` | `<Twitter handle>` | `<Notes>` |
+| https://drive.google.com/file/d/1azZPYX8dHfbhCQUx6cP-ECMtBmwqrSJV/view?usp=sharing | https://twitter.com/brjnrr | meme about Introduction to Programming. 'AND' 'OR'|
 
 ## Credits
 [Hacktoberfest](https://hacktoberfest.com/?ref=dailydev) is a registered trademark of [DigitalOcean](https://www.digitalocean.com/?ref=dailydev). We would like to give them a huge shout out and credit for supporting the global open source community through the Hacktoberfest initiative!
