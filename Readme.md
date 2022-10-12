@@ -45,7 +45,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 
 Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
-| https://user-images.githubusercontent.com/3102249/195358255-c5d714f3-b29e-41a2-b52b-d3e87c3ce203.png | `@codercatdev` | `Classic JavaScript TypeScript fighting words meme` |
+| ![Cat that likes JS, excited cat that loves TS](https://user-images.githubusercontent.com/3102249/195358255-c5d714f3-b29e-41a2-b52b-d3e87c3ce203.png) | `@codercatdev` | `Classic JavaScript TypeScript fighting words meme` |
 
 ## Credits
 [Hacktoberfest](https://hacktoberfest.com/?ref=dailydev) is a registered trademark of [DigitalOcean](https://www.digitalocean.com/?ref=dailydev). We would like to give them a huge shout out and credit for supporting the global open source community through the Hacktoberfest initiative!
