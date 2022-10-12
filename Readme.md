@@ -45,7 +45,8 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 
 Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
-| `<Meme image or link>` | `<Twitter handle>` | `<Notes>` |
+| <img width="820" alt="Tweet by Shubhangi ✿" src="https://user-images.githubusercontent.com/70970530/195259892-84568738-0a05-448f-9f16-44fe4fe2c978.png">
+> | [@heyShubhi](https://twitter.com/heyShubhi) | Link -> <https://twitter.com/heyShubhi/status/1579087531756298240?s=20&t=l9TbzLxn14P3lyUDchM_ag> |
 
 ## Credits
 [Hacktoberfest](https://hacktoberfest.com/?ref=dailydev) is a registered trademark of [DigitalOcean](https://www.digitalocean.com/?ref=dailydev). We would like to give them a huge shout out and credit for supporting the global open source community through the Hacktoberfest initiative!
