@@ -46,6 +46,8 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
 | `<Meme image or link>` | `<Twitter handle>` | `<Notes>` |
+| ![Pink and the brain meme](https://cdn.hashnode.com/res/hashnode/image/upload/v1665574374721/iYx4CycSH.jpg) | [@DailyDevTips1](https://twitter.com/DailyDevTips1) | It's what we do |
+
 
 ## Credits
 [Hacktoberfest](https://hacktoberfest.com/?ref=dailydev) is a registered trademark of [DigitalOcean](https://www.digitalocean.com/?ref=dailydev). We would like to give them a huge shout out and credit for supporting the global open source community through the Hacktoberfest initiative!
