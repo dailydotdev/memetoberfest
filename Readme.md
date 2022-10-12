@@ -46,6 +46,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
 | `<Meme image or link>` | `<Twitter handle>` | `<Notes>` |
+| ![](https://imgs.search.brave.com/5u6lt60tf2MIRkbv-ygHqu_2ubycGJUejp4wPVmF8vA/rs:fit:553:500:1/g:ce/aHR0cHM6Ly9pLmlt/Z2ZsaXAuY29tLzQz/ZG94MC5qcGc) | [@PGautam27](https://twitter.com/PGautam27) | I agree to this😂. Cause I never knew what github pro was during my two years of ug and yet I had it 😂😂. |
 
 ## Credits
 [Hacktoberfest](https://hacktoberfest.com/?ref=dailydev) is a registered trademark of [DigitalOcean](https://www.digitalocean.com/?ref=dailydev). We would like to give them a huge shout out and credit for supporting the global open source community through the Hacktoberfest initiative!
