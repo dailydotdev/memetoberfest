@@ -45,7 +45,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 
 Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
-| `<Meme image or link>` | `<Twitter handle>` | `<Notes>` |
+| ![Dunsin's meme submission](https://user-images.githubusercontent.com/78784850/195296809-6624e19e-0ed2-454d-b102-5b4fce7ca1bf.jpg) | `DunsinWebDev` | `ALT: Clowning when building a new project and trying a new tech stack` |
 
 ## Credits
 [Hacktoberfest](https://hacktoberfest.com/?ref=dailydev) is a registered trademark of [DigitalOcean](https://www.digitalocean.com/?ref=dailydev). We would like to give them a huge shout out and credit for supporting the global open source community through the Hacktoberfest initiative!
