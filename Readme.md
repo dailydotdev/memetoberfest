@@ -46,6 +46,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
 | `<Meme image or link>` | `<Twitter handle>` | `<Notes>` |
+![Error Message Meme](https://raw.githubusercontent.com/ishani-1255/memetoberfest-submission/main/main-qimg-0592150d9923e5b59827bf094f0c1c08-lq.jpeg)|[Ishika Ishani](https://twitter.com/siya_1255)| Meme shows how new code error is a progress.
 
 ## Credits
 [Hacktoberfest](https://hacktoberfest.com/?ref=dailydev) is a registered trademark of [DigitalOcean](https://www.digitalocean.com/?ref=dailydev). We would like to give them a huge shout out and credit for supporting the global open source community through the Hacktoberfest initiative!
