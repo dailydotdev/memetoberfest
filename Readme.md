@@ -46,9 +46,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
 | `<Meme image or link>` | `<Twitter handle>` | `<Notes>` | <!-- example -->
-![Developers meme](https://twitter.com/yusmnn/status/1580180830743572480?s=20&t=gGU-t4GbgIOFIREaVcSi9w)|[@yusmnn](https://twitter.com/yusmnn)| Meme shows developers working|
-| [Meme](https://imgflip.com/i/6tcx2a) | [Twitter](https://twitter.com/pandeysp885) | Vscode Meme |
-| ![Meme link](https://i.imgflip.com/6wmbpo.jpg) | @RemiRobichet | 'Left Exit 12 Off Ramp' meme |
+
 | https://i.imgflip.com/6wmb39.gif | @idoshamun | There's really nothing better than the feeling of creating a new project |
 | ![Pink and the brain meme](https://cdn.hashnode.com/res/hashnode/image/upload/v1665574374721/iYx4CycSH.jpg) | [@DailyDevTips1](https://twitter.com/DailyDevTips1) | It's what we do |
 | ![](https://imgs.search.brave.com/5u6lt60tf2MIRkbv-ygHqu_2ubycGJUejp4wPVmF8vA/rs:fit:553:500:1/g:ce/aHR0cHM6Ly9pLmlt/Z2ZsaXAuY29tLzQz/ZG94MC5qcGc) | [@PGautam27](https://twitter.com/PGautam27) | I agree to this😂. Cause I never knew what github pro was during my two years of ug and yet I had it 😂😂. |
@@ -66,12 +64,9 @@ Meme Image or link  | Twitter handle | Notes |
 | [npm Install meme](https://twitter.com/vivekpal0x/status/1579836408193159169?s=20&t=s_4DvX2hQzi1sBkMvaox1g) | [@vivekpal0x](https://twitter.com/vivekpal0x) | When you run <code> npm i </code>command 😂
 ![Untitled-8-1](https://user-images.githubusercontent.com/32828966/194521151-c5b0f70c-d17b-4357-9de7-114b00d8c598.png)|@MeetwithYash|-|
 |![Meme](https://external-preview.redd.it/Ii1zae7tWgUklTi6eSE_7YHoENA4ngh5abWIEUrA_jU.png?width=640&crop=smart&auto=webp&s=528f29a6ce5b042bb0c827031d46fcfff60f59aa)|@PallaMohammad| N/A  |
+| [https://i.imgflip.com/6wmb39.gif](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Are-you-a-robot-Meme-1024x925.jpg?x80061) | @iamsajithk | |
+
 
 ## Credits
 [Hacktoberfest](https://hacktoberfest.com/?ref=dailydev) is a registered trademark of [DigitalOcean](https://www.digitalocean.com/?ref=dailydev). We would like to give them a huge shout out and credit for supporting the global open source community through the Hacktoberfest initiative!
 If you haven’t signed up yet, we highly recommend every developer to [check it out](https://hacktoberfest.com/participation/?ref=dailydev) :raised_hands:
-
-## Vscode meme
-Meme Image or link  | Twitter handle | Notes |
-| --- | --- | --- |
-
