@@ -46,7 +46,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
 | `<Meme image or link>` | `<Twitter handle>` | `<Notes>` |
-| ![meme](https://pbs.twimg.com/media/FeYo_I5aEAAYjof?format=jpg&name=small) | [@\_\_tanan__](https://twitter.com/__tanan__) | you can use this to know if developers are actually dead or just pretending. |
+| ![meme](https://user-images.githubusercontent.com/91528741/195584369-d0dc7bd2-df91-4f9b-a813-049e3b16f4ac.jpg) | [@\_\_tanan__](https://twitter.com/__tanan__) | you can use this to know if developers are actually dead or just pretending. |
 
 
 
