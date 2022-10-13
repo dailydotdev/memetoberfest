@@ -46,7 +46,8 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
 | `<Meme image or link>` | `<Twitter handle>` | `<Notes>` | <!-- example -->
-[Developers meme](https://twitter.com/yusmnn/status/1580180830743572480?s=20&t=gGU-t4GbgIOFIREaVcSi9w)|[@yusmnn](https://twitter.com/yusmnn)| Meme shows developers working|
+| ![Cat that likes JS, excited cat that loves TS](https://user-images.githubusercontent.com/3102249/195358255-c5d714f3-b29e-41a2-b52b-d3e87c3ce203.png) | `@codercatdev` | `Classic JavaScript TypeScript fighting words meme` |
+| [Developers meme](https://twitter.com/yusmnn/status/1580180830743572480?s=20&t=gGU-t4GbgIOFIREaVcSi9w)|[@yusmnn](https://twitter.com/yusmnn)| Meme shows developers working|
 | [Meme](https://imgflip.com/i/6tcx2a) | [Twitter](https://twitter.com/pandeysp885) | Vscode Meme |
 | ![Meme link](https://i.imgflip.com/6wmbpo.jpg) | @RemiRobichet | 'Left Exit 12 Off Ramp' meme |
 | https://i.imgflip.com/6wmb39.gif | @idoshamun | There's really nothing better than the feeling of creating a new project |
@@ -70,8 +71,3 @@ Meme Image or link  | Twitter handle | Notes |
 ## Credits
 [Hacktoberfest](https://hacktoberfest.com/?ref=dailydev) is a registered trademark of [DigitalOcean](https://www.digitalocean.com/?ref=dailydev). We would like to give them a huge shout out and credit for supporting the global open source community through the Hacktoberfest initiative!
 If you haven’t signed up yet, we highly recommend every developer to [check it out](https://hacktoberfest.com/participation/?ref=dailydev) :raised_hands:
-
-## Vscode meme
-Meme Image or link  | Twitter handle | Notes |
-| --- | --- | --- |
-
