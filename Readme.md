@@ -19,6 +19,7 @@ An open source meme contest sponsored by [daily.dev](https://daily.dev)!
 - Please submit only **memes related to software development**
 - Do not submit Not Safe For Work (NSFW) memes
 - Do not submit offensive memes or memes that target a specific individual (we don't want to offend anyone)
+- You can submit more memes but only the first one will be taken in consideration for the prize
 
 ## Prizes
 
