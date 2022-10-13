@@ -46,6 +46,8 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
 | `<Meme image or link>` | `<Twitter handle>` | `<Notes>` | <!-- example -->
+
+| https://i.imgflip.com/6wmb39.gif | @idoshamun | There's really nothing better than the feeling of creating a new project |
 | ![Pink and the brain meme](https://cdn.hashnode.com/res/hashnode/image/upload/v1665574374721/iYx4CycSH.jpg) | [@DailyDevTips1](https://twitter.com/DailyDevTips1) | It's what we do |
 | ![](https://imgs.search.brave.com/5u6lt60tf2MIRkbv-ygHqu_2ubycGJUejp4wPVmF8vA/rs:fit:553:500:1/g:ce/aHR0cHM6Ly9pLmlt/Z2ZsaXAuY29tLzQz/ZG94MC5qcGc) | [@PGautam27](https://twitter.com/PGautam27) | I agree to this😂. Cause I never knew what github pro was during my two years of ug and yet I had it 😂😂. |
 | ![Jesulonimii's meme contribution](https://user-images.githubusercontent.com/70331030/195318282-8dc56d8b-0399-4756-b573-3d7adda22384.jpg) | @jesulonimii | me when applying for a remote job 😅 |
