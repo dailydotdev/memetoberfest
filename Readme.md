@@ -46,6 +46,8 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
 | `<Meme image or link>` | `<Twitter handle>` | `<Notes>` | <!-- example -->
+
+| `https://savvasstephanides.github.io/bucket/memetoberfest/memetoberfest.gif` | `@SavvasStephnds` | `ALT: Animated female character excitedly waving with eyes and mouth wide open` |
 |![meme]!(https://user-images.githubusercontent.com/63906669/195282130-c07a6724-5a46-4059-a645-c569b6367c6a.png)|[Amruth Acharya] (https://twitter.com/achaamruth) | Pope has praised daily.dev |
 | ![](https://user-images.githubusercontent.com/65576111/195369904-11b40dac-e8b8-47ef-a303-db510caf3dec.jpg)| `@SrNascimento40` | `An awesome creative meme! Never seen before! Dreamed with it and it's genial!!!` |
 | ![meme](https://user-images.githubusercontent.com/51878265/195262580-f2fb43f2-71e0-4d50-afa4-26266eb62395.png)| [Pradumna Saraf](https://twitter.com/pradumna_saraf) | No chrome tabs, only daily.dev tabs |
