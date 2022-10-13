@@ -43,9 +43,9 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 
 ## Entries
 
-| Meme Image or link               | Twitter handle   | Notes                    |
-| -------------------------------- | ---------------- | ------------------------ |
-| `<https://imgflip.com/i/6wq0e6>` | `<@dejacherese>` | `<For the love of CSS.>` |
+| Meme Image or link                                                                                                                                                                                           | Twitter handle                                    | Notes                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------- | ------------------------ |
+| `<a href="https://imgflip.com/i/6wq0e6"><img src="https://i.imgflip.com/6wq0e6.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>` | `[@dejacherese](https://twitter.com/DejaCherese)` | `<For the love of CSS.>` |
 
 ## Credits
 
