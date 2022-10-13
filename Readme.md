@@ -46,7 +46,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
 | `<Meme image or link>` | `<Twitter handle>` | `<Notes>` | <!-- example -->
-![Developers meme](https://twitter.com/yusmnn/status/1580180830743572480?s=20&t=gGU-t4GbgIOFIREaVcSi9w)|[@yusmnn](https://twitter.com/yusmnn)| Meme shows developers working|
+[Developers meme](https://twitter.com/yusmnn/status/1580180830743572480?s=20&t=gGU-t4GbgIOFIREaVcSi9w)|[@yusmnn](https://twitter.com/yusmnn)| Meme shows developers working|
 | [Meme](https://imgflip.com/i/6tcx2a) | [Twitter](https://twitter.com/pandeysp885) | Vscode Meme |
 | ![Meme link](https://i.imgflip.com/6wmbpo.jpg) | @RemiRobichet | 'Left Exit 12 Off Ramp' meme |
 | https://i.imgflip.com/6wmb39.gif | @idoshamun | There's really nothing better than the feeling of creating a new project |
