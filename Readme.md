@@ -45,8 +45,8 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 
 Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
-
 | `<Meme image or link>` | `<Twitter handle>` | `<Notes>` | <!-- example -->
+| ![github-issues](https://user-images.githubusercontent.com/78981177/195394193-a7a508e8-431f-4c06-a842-5f3d0940e52c.jpg) | [Rupali Haldiya](https://twitter.com/rupali_codes) | Github Issues |
 | https://res.cloudinary.com/ddlhk5yje/image/upload/v1665589360/meme/8_ocpfce.png | `PriteshKiri` | `These is all we listen after years of hard work :)` |
 | `https://i.imgur.com/LXeRs0W.png` | `@DevOmar100` | `Same Like me 🚀🔥🔥` |
 | ![image](https://user-images.githubusercontent.com/1681525/195384222-6bf9dd51-9349-4994-9567-ba750a714a0b.png) | `@omBratteng` | This meme feels very meta, and is sure to win |
