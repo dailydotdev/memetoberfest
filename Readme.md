@@ -89,8 +89,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 |![Untitled-8-1](https://user-images.githubusercontent.com/32828966/194521151-c5b0f70c-d17b-4357-9de7-114b00d8c598.png)|@MeetwithYash|-|
 |![Meme](https://external-preview.redd.it/Ii1zae7tWgUklTi6eSE_7YHoENA4ngh5abWIEUrA_jU.png?width=640&crop=smart&auto=webp&s=528f29a6ce5b042bb0c827031d46fcfff60f59aa)|@PallaMohammad| N/A  |
 | ![Meme](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Are-you-a-robot-Meme-1024x925.jpg?x80061) | @iamsajithk | Emotional |
-
-
+| ![inspect-page-meme](https://user-images.githubusercontent.com/70577616/195661112-6b5008b6-eb0f-4cbf-b153-f4c06839cf57.png) | [Ruchita](https://twitter.com/_ruchita1010) | When stackoverflow doesn't help, F12 or Ctrl+Shift+I does 😂 |
 <!-- Add your meme directly above this comment. -->
 
 ## Credits
