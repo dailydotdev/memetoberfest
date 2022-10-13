@@ -1,28 +1,28 @@
-# Memetoberfest
+# Welcome to Memetoberfest!
 
-What is Memetoberfest?
+![twitter_hactoberfest__1200x627](https://user-images.githubusercontent.com/18360871/195051948-5c6983a0-5b07-4b09-acf9-1e46d985008d.png)
 
-A Meme contest sponsored by [daily.dev!](https://daily.dev)
+## What is Memetoberfest?
 
-Everyone can participate by making a PR to update the [table at the end of this readme](#entries) with the required details.
+An open source meme contest sponsored by [daily.dev](https://daily.dev)!
 
-**Only memes related to software development will be accepted.**
+👉 Everyone can participate by raising a PR to update the [table at the end of this README](#entries) with the [required details](#How-to-participate).
+
 
 ## Prerequisites
-- Knowing what [a meme is.](https://en.wikipedia.org/wiki/Internet_meme)
-- Having a Twitter handle where we can contact you. 
+- Knowing what [a meme is](https://en.wikipedia.org/wiki/Internet_meme)
+- Having a Twitter profile with open DMs where we can contact you
 
-Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?screen_name=dailydotdev) to get notified about the contest!
 
 ## Rules
 
-- No Not Safe For Work (NSFW) memes
-- No offensive memes or memes that target a specific individual. (we don't want to offend anyone)
-- Only memes related to software development will be counted.
+- Please submit only **memes related to software development**
+- Do not submit Not Safe For Work (NSFW) memes
+- Do not submit offensive memes or memes that target a specific individual (we don't want to offend anyone)
 
 ## Prizes
 
-The best memes will get daily.dev SWAG!
+The 10 best memes will get daily.dev SWAG!
 
 ## How to participate
 
@@ -31,18 +31,26 @@ Make a PR adding a row to the [table below](#entries) with:
 - Your Twitter handle
 - notes (optional - explain how we can use this meme)
 
-that's it! 
+That's it! 
 
 Here is a quick [guide on tables in markdown](https://www.markdownguide.org/extended-syntax/#tables).
 
 ## When will be the winners announced?
 
-The winners will be announced on the 7th of November
+The winners will be announced on the 7th of November.
 
+Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?screen_name=dailydotdev) to get notified about the contest!
 
 ## Entries
 
 Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
+
 | `<Meme link>` | `<Twitter handle>` | `<Notes>` |
 |![Meme](https://external-preview.redd.it/Ii1zae7tWgUklTi6eSE_7YHoENA4ngh5abWIEUrA_jU.png?width=640&crop=smart&auto=webp&s=528f29a6ce5b042bb0c827031d46fcfff60f59aa)|@PallaMohammad| N/A  |
+
+
+## Credits
+[Hacktoberfest](https://hacktoberfest.com/?ref=dailydev) is a registered trademark of [DigitalOcean](https://www.digitalocean.com/?ref=dailydev). We would like to give them a huge shout out and credit for supporting the global open source community through the Hacktoberfest initiative!
+If you haven’t signed up yet, we highly recommend every developer to [check it out](https://hacktoberfest.com/participation/?ref=dailydev) :raised_hands:
+
