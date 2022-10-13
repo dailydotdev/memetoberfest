@@ -45,6 +45,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 
 Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
+| ![meme](https://user-images.githubusercontent.com/51878265/195262580-f2fb43f2-71e0-4d50-afa4-26266eb62395.png)| [Pradumna Saraf](https://twitter.com/pradumna_saraf) | No chrome tabs, only daily.dev tabs |
 | <img width="820" alt="Tweet by Shubhangi ✿" src="https://user-images.githubusercontent.com/70970530/195259892-84568738-0a05-448f-9f16-44fe4fe2c978.png">
 > | [@heyShubhi](https://twitter.com/heyShubhi) | Link -> <https://twitter.com/heyShubhi/status/1579087531756298240?s=20&t=l9TbzLxn14P3lyUDchM_ag> |
 | `<Meme image or link>` | `<Twitter handle>` | `<Notes>` |
