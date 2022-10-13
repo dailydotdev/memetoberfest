@@ -47,9 +47,6 @@ Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
 | `<Meme image or link>` | `<Twitter handle>` | `<Notes>` |
 |  ![image 1](https://pbs.twimg.com/media/FLJR82kXwAgnx_h?format=png&name=900x900) | `ashishk1331` | `Dwag uses semi-colon in python` |
-| ![image 2](https://pbs.twimg.com/media/E7fuL4XX0Ac1_Gs?format=jpg&name=small) | `ashishk1331` | `A valid password look alike` |
-| ![image 3](https://pbs.twimg.com/media/FdzY8nWWQAA2E-0?format=jpg&name=medium) | `ashishk1331` | `The localhost` |
-| ![image 4](https://pbs.twimg.com/media/Fdl3n60XEAI5UZs?format=jpg&name=large) | `ashishk1331` | `Mouse Pointer lay still` |
 
 ## Credits
 [Hacktoberfest](https://hacktoberfest.com/?ref=dailydev) is a registered trademark of [DigitalOcean](https://www.digitalocean.com/?ref=dailydev). We would like to give them a huge shout out and credit for supporting the global open source community through the Hacktoberfest initiative!
