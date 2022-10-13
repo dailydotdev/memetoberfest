@@ -46,6 +46,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
 | `<Meme image or link>` | `<Twitter handle>` | `<Notes>` | <!-- example -->
+| ![Jesulonimii's meme contribution](https://user-images.githubusercontent.com/70331030/195318282-8dc56d8b-0399-4756-b573-3d7adda22384.jpg) | @jesulonimii | me when applying for a remote job 😅 |
 | ![Dunsin's meme submission](https://user-images.githubusercontent.com/78784850/195296809-6624e19e-0ed2-454d-b102-5b4fce7ca1bf.jpg) | `DunsinWebDev` | `ALT: Clowning when building a new project and trying a new tech stack` |
 | `https://savvasstephanides.github.io/bucket/memetoberfest/memetoberfest.gif` | `@SavvasStephnds` | `ALT: Animated female character excitedly waving with eyes and mouth wide open` |
 |![meme]!(https://user-images.githubusercontent.com/63906669/195282130-c07a6724-5a46-4059-a645-c569b6367c6a.png)|[Amruth Acharya] (https://twitter.com/achaamruth) | Pope has praised daily.dev |
@@ -59,6 +60,7 @@ Meme Image or link  | Twitter handle | Notes |
 | [npm Install meme](https://twitter.com/vivekpal0x/status/1579836408193159169?s=20&t=s_4DvX2hQzi1sBkMvaox1g) | [@vivekpal0x](https://twitter.com/vivekpal0x) | When you run <code> npm i </code>command 😂
 ![Untitled-8-1](https://user-images.githubusercontent.com/32828966/194521151-c5b0f70c-d17b-4357-9de7-114b00d8c598.png)|@MeetwithYash|-|
 |![Meme](https://external-preview.redd.it/Ii1zae7tWgUklTi6eSE_7YHoENA4ngh5abWIEUrA_jU.png?width=640&crop=smart&auto=webp&s=528f29a6ce5b042bb0c827031d46fcfff60f59aa)|@PallaMohammad| N/A  |
+
 
 ## Credits
 [Hacktoberfest](https://hacktoberfest.com/?ref=dailydev) is a registered trademark of [DigitalOcean](https://www.digitalocean.com/?ref=dailydev). We would like to give them a huge shout out and credit for supporting the global open source community through the Hacktoberfest initiative!
