@@ -47,6 +47,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
 | `<Meme image or link>` | `<Twitter handle>` | `<Notes>` | <!-- example -->
+| ![image0](https://user-images.githubusercontent.com/97435165/195425701-4a2bf03e-c5f5-4a53-9a61-b0bae0d9473a.jpg) | [@prajwalsuvarna](https://twitter.com/prajwalsuvarnaa) | Concept of oops :stuck_out_tongue_closed_eyes: |
 | <img src="https://i.imgur.com/SVm2pu9.png"  width="450" height="450"> | `brjnrr` | Intro to Computing meme **NOR, NAND** |
 | [hotline](https://drive.google.com/file/d/1XvN_Ft6R2LZAlL571zfhkiXvhntMWfPH/view?usp=sharing) | @lukejanss | classic drake meme |
 | https://raw.githubusercontent.com/gokulz/memetoberfest/meme_image/IMG_20221012_165119%20(1).jpg | @gokulzzzzzzz | How C++ reacts to JAVA ! |
@@ -79,6 +80,7 @@ Meme Image or link  | Twitter handle | Notes |
 | [npm Install meme](https://twitter.com/vivekpal0x/status/1579836408193159169?s=20&t=s_4DvX2hQzi1sBkMvaox1g) | [@vivekpal0x](https://twitter.com/vivekpal0x) | When you run <code> npm i </code>command 😂
 |![Untitled-8-1](https://user-images.githubusercontent.com/32828966/194521151-c5b0f70c-d17b-4357-9de7-114b00d8c598.png)|@MeetwithYash|-|
 |![Meme](https://external-preview.redd.it/Ii1zae7tWgUklTi6eSE_7YHoENA4ngh5abWIEUrA_jU.png?width=640&crop=smart&auto=webp&s=528f29a6ce5b042bb0c827031d46fcfff60f59aa)|@PallaMohammad| N/A  |
+
 
 ## Credits
 [Hacktoberfest](https://hacktoberfest.com/?ref=dailydev) is a registered trademark of [DigitalOcean](https://www.digitalocean.com/?ref=dailydev). We would like to give them a huge shout out and credit for supporting the global open source community through the Hacktoberfest initiative!
