@@ -45,6 +45,8 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 
 Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
+| <img width="820" alt="Tweet by Shubhangi ✿" src="https://user-images.githubusercontent.com/70970530/195259892-84568738-0a05-448f-9f16-44fe4fe2c978.png">
+> | [@heyShubhi](https://twitter.com/heyShubhi) | Link -> <https://twitter.com/heyShubhi/status/1579087531756298240?s=20&t=l9TbzLxn14P3lyUDchM_ag> |
 | `<Meme image or link>` | `<Twitter handle>` | `<Notes>` |
 ![JavaScript Frameworks Meme](https://833250.smushcdn.com/1694534/wp-content/uploads/2021/06/7-768x773.png?lossy=1&strip=1&webp=1)|[@muhib7353](https://twitter.com/muhib7353)| Meme shows Javascript developers are always curious to new frameworks 
 | <img src="https://i.ibb.co/wL5jghr/cpp.png" width="500"> | [@aanxand](https://twitter.com/@aanxand) | `A meme that you usually don't see, but can totally relate to as well` |
