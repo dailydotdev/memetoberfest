@@ -48,6 +48,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 | Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
 | `<Meme image or link>` | `<Twitter handle>` | `<Notes>` | <!-- example -->
+| `https://i.redd.it/p9ncboux99h71.jpg` | `@SudhiKrishnaNA1` | `About Googling and Programmers` |
 | ![image](https://user-images.githubusercontent.com/99729607/195514526-e3fa4397-7862-4d85-9b30-d6ea329b4469.png) | [Ali Reza](https://twitter.com/Ali_Developer05) | `Front-End & Back-End in Real-Life` |
 | <a href="https://imgflip.com/i/6wq0e6"><img src="https://i.imgflip.com/6wq0e6.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div> | [@dejacherese](https://twitter.com/DejaCherese) | <For the love of CSS.> |
 | <img src="https://i.imgur.com/UW0VS0J.jpeg"  width="450"> | @mezerotm | SpongeBob can't resist new frameworks in his project |
@@ -85,6 +86,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 | [npm Install meme](https://twitter.com/vivekpal0x/status/1579836408193159169?s=20&t=s_4DvX2hQzi1sBkMvaox1g) | [@vivekpal0x](https://twitter.com/vivekpal0x) | When you run <code> npm i </code>command 😂
 |![Untitled-8-1](https://user-images.githubusercontent.com/32828966/194521151-c5b0f70c-d17b-4357-9de7-114b00d8c598.png)|@MeetwithYash|-|
 |![Meme](https://external-preview.redd.it/Ii1zae7tWgUklTi6eSE_7YHoENA4ngh5abWIEUrA_jU.png?width=640&crop=smart&auto=webp&s=528f29a6ce5b042bb0c827031d46fcfff60f59aa)|@PallaMohammad| N/A  |
+
 
 ## Credits
 
