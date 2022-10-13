@@ -45,7 +45,8 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 
 Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
-| `<Meme image or link>` | `<Twitter handle>` | `<Notes>` |
+| ![bug fixing meme](https://user-images.githubusercontent.com/46662771/195576073-2fce22ed-9f3c-4a8e-a69a-be1ef3a38638.jpg)
+ | [@frankiefab100](https://twitter.com/frankiefab100) | The moment you are trying to fix a bug while the users think it is working well. |
 
 ## Credits
 [Hacktoberfest](https://hacktoberfest.com/?ref=dailydev) is a registered trademark of [DigitalOcean](https://www.digitalocean.com/?ref=dailydev). We would like to give them a huge shout out and credit for supporting the global open source community through the Hacktoberfest initiative!
