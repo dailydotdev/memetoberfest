@@ -46,7 +46,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
 | `<Meme image or link>` | `<Twitter handle>` | `<Notes>` | <!-- example -->
-
+| ![Dunsin's meme submission](https://user-images.githubusercontent.com/78784850/195296809-6624e19e-0ed2-454d-b102-5b4fce7ca1bf.jpg) | `DunsinWebDev` | `ALT: Clowning when building a new project and trying a new tech stack` |
 | `https://savvasstephanides.github.io/bucket/memetoberfest/memetoberfest.gif` | `@SavvasStephnds` | `ALT: Animated female character excitedly waving with eyes and mouth wide open` |
 |![meme]!(https://user-images.githubusercontent.com/63906669/195282130-c07a6724-5a46-4059-a645-c569b6367c6a.png)|[Amruth Acharya] (https://twitter.com/achaamruth) | Pope has praised daily.dev |
 | ![](https://user-images.githubusercontent.com/65576111/195369904-11b40dac-e8b8-47ef-a303-db510caf3dec.jpg)| `@SrNascimento40` | `An awesome creative meme! Never seen before! Dreamed with it and it's genial!!!` |
