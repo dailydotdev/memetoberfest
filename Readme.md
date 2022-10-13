@@ -45,10 +45,10 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 
 Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
-
+| `<Meme image or link>` | `<Twitter handle>` | `<Notes>` | <!-- example -->
+|<a href="https://imgflip.com/i/6wmw0r"><img src="https://i.imgflip.com/6wmw0r.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>|[@intelagense](https://twitter.com/intelagense)|Perfectionists will understand.|
 |![meme](https://pbs.twimg.com/media/Fe37M7dWYAAT5up?format=jpg&name=4096x4096) | [@merouanezouaid](https://twitter.com/merouanezouaid) | - Do you remember when we were memorizing the periodic table? haha .. me: We still do tho..  What? but you're a computer science major!?? me: ... |
 |![AI is taking over world by storm](https://techresearchonline.com/oadroowh/2022/08/ai-meme.webp)|[@ishan_is_me](https://twitter.com/ishan_is_me)| Meme shows AI taking over world by storm with its image processing ability|
-| `<Meme image or link>` | `<Twitter handle>` | `<Notes>` | <!-- example -->
 | ![Cat that likes JS, excited cat that loves TS](https://user-images.githubusercontent.com/3102249/195358255-c5d714f3-b29e-41a2-b52b-d3e87c3ce203.png) | `@codercatdev` | `Classic JavaScript TypeScript fighting words meme` |
 | [Developers meme](https://twitter.com/yusmnn/status/1580180830743572480?s=20&t=gGU-t4GbgIOFIREaVcSi9w)|[@yusmnn](https://twitter.com/yusmnn)| Meme shows developers working|
 | [Meme](https://imgflip.com/i/6tcx2a) | [Twitter](https://twitter.com/pandeysp885) | Vscode Meme |
