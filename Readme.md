@@ -46,6 +46,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
 | `<Meme image or link>` | `<Twitter handle>` | `<Notes>` | <!-- example -->
+| https://raw.githubusercontent.com/gokulz/memetoberfest/meme_image/IMG_20221012_165119%20(1).jpg | @gokulzzzzzzz | How C++ reacts to JAVA ! |
 | <img src="https://user-images.githubusercontent.com/79275152/195405813-fae5cf24-112c-4c84-bdec-3d704a9eb72d.png"  width="450" height="450"> | `snehel4510` | **What's My address😉** |
 | ![github-issues](https://user-images.githubusercontent.com/78981177/195394193-a7a508e8-431f-4c06-a842-5f3d0940e52c.jpg) | [Rupali Haldiya](https://twitter.com/rupali_codes) | Github Issues |
 | https://res.cloudinary.com/ddlhk5yje/image/upload/v1665589360/meme/8_ocpfce.png | `PriteshKiri` | `These is all we listen after years of hard work :)` |
