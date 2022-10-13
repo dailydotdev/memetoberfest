@@ -46,10 +46,6 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
 | `<Meme image or link>` | `<Twitter handle>` | `<Notes>` | <!-- example -->
-| ![Meme link](https://i.imgflip.com/6wmbpo.jpg) | @RemiRobichet | 'Left Exit 12 Off Ramp' meme |
-| https://i.imgflip.com/6wmb39.gif | @idoshamun | There's really nothing better than the feeling of creating a new project |
-| ![Pink and the brain meme](https://cdn.hashnode.com/res/hashnode/image/upload/v1665574374721/iYx4CycSH.jpg) | [@DailyDevTips1](https://twitter.com/DailyDevTips1) | It's what we do |
-| ![](https://imgs.search.brave.com/5u6lt60tf2MIRkbv-ygHqu_2ubycGJUejp4wPVmF8vA/rs:fit:553:500:1/g:ce/aHR0cHM6Ly9pLmlt/Z2ZsaXAuY29tLzQz/ZG94MC5qcGc) | [@PGautam27](https://twitter.com/PGautam27) | I agree to this😂. Cause I never knew what github pro was during my two years of ug and yet I had it 😂😂. |
 | ![Jesulonimii's meme contribution](https://user-images.githubusercontent.com/70331030/195318282-8dc56d8b-0399-4756-b573-3d7adda22384.jpg) | @jesulonimii | me when applying for a remote job 😅 |
 | ![Dunsin's meme submission](https://user-images.githubusercontent.com/78784850/195296809-6624e19e-0ed2-454d-b102-5b4fce7ca1bf.jpg) | `DunsinWebDev` | `ALT: Clowning when building a new project and trying a new tech stack` |
 | `https://savvasstephanides.github.io/bucket/memetoberfest/memetoberfest.gif` | `@SavvasStephnds` | `ALT: Animated female character excitedly waving with eyes and mouth wide open` |
@@ -64,6 +60,8 @@ Meme Image or link  | Twitter handle | Notes |
 | [npm Install meme](https://twitter.com/vivekpal0x/status/1579836408193159169?s=20&t=s_4DvX2hQzi1sBkMvaox1g) | [@vivekpal0x](https://twitter.com/vivekpal0x) | When you run <code> npm i </code>command 😂
 ![Untitled-8-1](https://user-images.githubusercontent.com/32828966/194521151-c5b0f70c-d17b-4357-9de7-114b00d8c598.png)|@MeetwithYash|-|
 |![Meme](https://external-preview.redd.it/Ii1zae7tWgUklTi6eSE_7YHoENA4ngh5abWIEUrA_jU.png?width=640&crop=smart&auto=webp&s=528f29a6ce5b042bb0c827031d46fcfff60f59aa)|@PallaMohammad| N/A  |
+
+| [git meme](https://twitter.com/DaviesNzan/status/1569776230336962561) | [@DuksLe]((https://twitter.com/DuksLe) | N/A |
 
 
 ## Credits
