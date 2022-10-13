@@ -47,7 +47,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 
 | Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
-| `<Meme image or link>` | `<Twitter handle>` | `<Notes>` | <!-- example -->
+| `<Meme image or link>` | `<Twitter handle>` | `<Notes>` | <!-- Example format. Scroll down to the last row to add your meme. -->
 | ![bug fixing meme](https://user-images.githubusercontent.com/46662771/195576073-2fce22ed-9f3c-4a8e-a69a-be1ef3a38638.jpg)
  | [@frankiefab100](https://twitter.com/frankiefab100) | The moment you are trying to fix a bug while the users think it is working well. |
 | `https://i.redd.it/p9ncboux99h71.jpg` | `@SudhiKrishnaNA1` | `About Googling and Programmers` |
@@ -90,6 +90,8 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 |![Meme](https://external-preview.redd.it/Ii1zae7tWgUklTi6eSE_7YHoENA4ngh5abWIEUrA_jU.png?width=640&crop=smart&auto=webp&s=528f29a6ce5b042bb0c827031d46fcfff60f59aa)|@PallaMohammad| N/A  |
 | ![Meme](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Are-you-a-robot-Meme-1024x925.jpg?x80061) | @iamsajithk | Emotional |
 
+
+<!-- Add your meme directly above this comment. -->
 
 ## Credits
 
