@@ -89,7 +89,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 |![Untitled-8-1](https://user-images.githubusercontent.com/32828966/194521151-c5b0f70c-d17b-4357-9de7-114b00d8c598.png)|@MeetwithYash|-|
 |![Meme](https://external-preview.redd.it/Ii1zae7tWgUklTi6eSE_7YHoENA4ngh5abWIEUrA_jU.png?width=640&crop=smart&auto=webp&s=528f29a6ce5b042bb0c827031d46fcfff60f59aa)|@PallaMohammad| N/A  |
 | ![Meme](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Are-you-a-robot-Meme-1024x925.jpg?x80061) | @iamsajithk | Emotional |
-
+| ![PicsArt_10-16-09 23 45](https://user-images.githubusercontent.com/71027441/196046926-80feb277-5f37-4746-a4a0-6b279f92086f.jpg) | @PrabhatSar10 | Life of a developer, full of misery! |
 
 <!-- Add your meme directly above this comment. -->
 
