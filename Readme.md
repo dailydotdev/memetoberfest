@@ -89,7 +89,11 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 |![Untitled-8-1](https://user-images.githubusercontent.com/32828966/194521151-c5b0f70c-d17b-4357-9de7-114b00d8c598.png)|@MeetwithYash|-|
 |![Meme](https://external-preview.redd.it/Ii1zae7tWgUklTi6eSE_7YHoENA4ngh5abWIEUrA_jU.png?width=640&crop=smart&auto=webp&s=528f29a6ce5b042bb0c827031d46fcfff60f59aa)|@PallaMohammad| N/A  |
 | ![Meme](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Are-you-a-robot-Meme-1024x925.jpg?x80061) | @iamsajithk | Emotional |
-| <img src="![memetoberfest](https://user-images.githubusercontent.com/25264755/197018582-9bf168f5-3d9c-4151-9cc1-5263572838de.png)" width="500"> | [@bxtgeek](https://twitter.com/@bxtgeek) | `Supremacy of memetoberfest` |
+| ![memetoberfest](https://user-images.githubusercontent.com/25264755/197018582-9bf168f5-3d9c-4151-9cc1-5263572838de.png) width="500"> | [@bxtgeek](https://twitter.com/@bxtgeek) | `Supremacy of memetoberfest` |
+| ![2](https://user-images.githubusercontent.com/25264755/197022179-ca1cb673-f1f4-427f-8c3c-67d9cb83c592.png) width="500"> | [@bxtgeek](https://twitter.com/@bxtgeek) | `HarlodOps` |
+| ![3](https://user-images.githubusercontent.com/25264755/197022271-66476927-9753-4f59-968d-e58b68b0e709.png) width="500"> | [@bxtgeek](https://twitter.com/@bxtgeek) | `chaotic intern` |
+| ![4](https://user-images.githubusercontent.com/25264755/197022367-e914f364-fadd-4797-abe0-05d24abadd65.png) width="500"> | [@bxtgeek](https://twitter.com/@bxtgeek) | `Grandma IT Guy` |
+| ![5](https://user-images.githubusercontent.com/25264755/197022434-9f005675-cdc9-417d-bed0-cdf8f2baee73.png) width="500"> | [@bxtgeek](https://twitter.com/@bxtgeek) | `developer Calendar` |
 
 
 <!-- Add your meme directly above this comment. -->
