@@ -100,6 +100,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 |![Untitled-8-1](https://user-images.githubusercontent.com/32828966/194521151-c5b0f70c-d17b-4357-9de7-114b00d8c598.png)|@MeetwithYash|-|
 |![Meme](https://external-preview.redd.it/Ii1zae7tWgUklTi6eSE_7YHoENA4ngh5abWIEUrA_jU.png?width=640&crop=smart&auto=webp&s=528f29a6ce5b042bb0c827031d46fcfff60f59aa)|@PallaMohammad| N/A |
 | ![Meme](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Are-you-a-robot-Meme-1024x925.jpg?x80061) | @iamsajithk | Emotional |
+| ![Desert decision meme, a person would much rather spend more time googling without thinking rather than using debugging tools](https://user-images.githubusercontent.com/78604367/195753173-795ac721-b59c-4c01-bff7-126c8aaa839d.png) | [@20jasper](https://twitter.com/20jasper) |  |
 | ![inspect-page-meme](https://user-images.githubusercontent.com/70577616/195661112-6b5008b6-eb0f-4cbf-b153-f4c06839cf57.png) | [Ruchita](https://twitter.com/_ruchita1010) | When stackoverflow doesn't help, F12 or Ctrl+Shift+I does 😂 |
 | ![Meme](https://github.com/abhaytaras7/memetoberfest-submission/blob/main/dd.png?raw=true) | [@whistle_xd](https://twitter.com/whistle_xd) | SAD |
 | <a href="https://imgflip.com/i/6wrof7"><img src="https://i.imgflip.com/6wrof7.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div> | [@its_SusmitaDey](https://twitter.com/its_SusmitaDey) | Ft. Daily.dev careers |
@@ -107,6 +108,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 | ![image](https://user-images.githubusercontent.com/35291614/195594540-c70d6694-befc-40cf-be31-fbc97eb374d9.png) | [@covertgravy](https://twitter.com/covertgravy) | TDD |
 | ![Merge conflict meme](https://user-images.githubusercontent.com/2335145/195585836-85cf4b2c-6ea0-4546-a168-393cb3581815.png) | @axolodev | Nothing | 
 | <img src="https://pbs.twimg.com/media/FLJR82kXwAgnx_h?format=png&name=900x900"  width="450" height="450"> | `ashishk1331` | `Dwag uses semi-colon in python` |
+
 
 <!-- Add your meme directly above this comment. -->
 
