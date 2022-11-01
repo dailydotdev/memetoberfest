@@ -95,6 +95,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 |![Untitled-8-1](https://user-images.githubusercontent.com/32828966/194521151-c5b0f70c-d17b-4357-9de7-114b00d8c598.png)|@MeetwithYash|-|
 |![Meme](https://external-preview.redd.it/Ii1zae7tWgUklTi6eSE_7YHoENA4ngh5abWIEUrA_jU.png?width=640&crop=smart&auto=webp&s=528f29a6ce5b042bb0c827031d46fcfff60f59aa)|@PallaMohammad| N/A |
 | ![Meme](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Are-you-a-robot-Meme-1024x925.jpg?x80061) | @iamsajithk | Emotional |
+| ![8a21d04234bfc771aa48d4127c71b78b](https://i.imgur.com/IuLntvo.jpg) | @RohitCode25 | If someone tell you can't google your every problem 😁 |
 | ![Meme](https://user-images.githubusercontent.com/111836493/197185372-dfa53920-d557-4249-bb24-07f589c8cf2b.png) | @Divvstwt
 | ![image](https://user-images.githubusercontent.com/76687985/197026914-d16f242f-c7de-4923-8521-d1ea51df0aa2.png) | @techspiritss | Going to fix that leak taking 2GB RAM memory
 | ![memetoberfest](https://user-images.githubusercontent.com/25264755/197018582-9bf168f5-3d9c-4151-9cc1-5263572838de.png) width="500"> | [@bxtgeek](https://twitter.com/@bxtgeek) | `Supremacy of memetoberfest` |
