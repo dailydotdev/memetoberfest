@@ -97,6 +97,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 |![Untitled-8-1](https://user-images.githubusercontent.com/32828966/194521151-c5b0f70c-d17b-4357-9de7-114b00d8c598.png)|@MeetwithYash|-|
 |![Meme](https://external-preview.redd.it/Ii1zae7tWgUklTi6eSE_7YHoENA4ngh5abWIEUrA_jU.png?width=640&crop=smart&auto=webp&s=528f29a6ce5b042bb0c827031d46fcfff60f59aa)|@PallaMohammad| N/A |
 | ![Meme](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Are-you-a-robot-Meme-1024x925.jpg?x80061) | @iamsajithk | Emotional |
+| ![meme](https://photos.app.goo.gl/DRMpqwHDeSNiNVzw7)| [ShorunTech](https://twitter.com/shoruntech) | Me Trying to continue my #100DaysOfReadingAnArticles|
 | ![All hail memetoberfest!](https://pbs.twimg.com/media/FfmCbjCUcAAtOTv?format=jpg&name=small) | [@\_slowflash\_](https://twitter.com/_slowflash_) | HacktoberFest vibes🥹 |
 | ![Meme](https://drive.google.com/file/d/1_GxWIkGWSxWb2tS-rbWBxZf4SBFDyx4C/view?usp=sharing) | @dev_aslam | Aslam Hossain |
 | ![docs](https://user-images.githubusercontent.com/18537226/197189069-0a8a9961-5224-444c-a01d-1d7c1956cd6a.png) | @TomaszHamerla | Mission of this meme: to convince devs to stop neglecting the docs |
