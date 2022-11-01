@@ -47,6 +47,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 
 | Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
+| <img src="https://programmerhumor.io/wp-content/uploads/2022/10/programmerhumor-io-python-memes-backend-memes-410c7ab589e5024.jpg" width="450" height="450"/> | [Astrodevil_](https://mobile.twitter.com/astrodevil_) | `This meme is best suitable for newbies in tech.` |
 | `<Meme image or link>` | `<Twitter handle>` | `<Notes>` | <!-- Example format. Scroll down to the last row to add your meme. -->
 | ![meme](https://user-images.githubusercontent.com/91528741/195584369-d0dc7bd2-df91-4f9b-a813-049e3b16f4ac.jpg) | [@\_\_tanan__](https://twitter.com/__tanan__) | you can use this to know if developers are actually dead or just pretending. |
 | ![bug fixing meme](https://user-images.githubusercontent.com/46662771/195576073-2fce22ed-9f3c-4a8e-a69a-be1ef3a38638.jpg) | [@frankiefab100](https://twitter.com/frankiefab100) | The moment you are trying to fix a bug while the users think it is working well. |
