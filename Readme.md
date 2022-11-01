@@ -98,6 +98,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 |![Untitled-8-1](https://user-images.githubusercontent.com/32828966/194521151-c5b0f70c-d17b-4357-9de7-114b00d8c598.png)|@MeetwithYash|-|
 |![Meme](https://external-preview.redd.it/Ii1zae7tWgUklTi6eSE_7YHoENA4ngh5abWIEUrA_jU.png?width=640&crop=smart&auto=webp&s=528f29a6ce5b042bb0c827031d46fcfff60f59aa)|@PallaMohammad| N/A |
 | ![Meme](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Are-you-a-robot-Meme-1024x925.jpg?x80061) | @iamsajithk | Emotional |
+| ![Cutting Edge Pc](https://user-images.githubusercontent.com/72879799/196004474-c2368977-a2a6-4fbf-9446-07454b0a788f.jpg) | [@arnavkr_](https://twitter.com/arnavkr_) | When apple launches a cutting Edge Mac 😉 |
 | ![Meme](https://twitter.com/ankiitamalik/status/1580387982217211905?s=20&t=8L8RtATQcNXcei2l2zB6UQ) | [ankiitamalik](https://twitter.com/ankiitamalik) | College Assignments 😂 |
 | ![Meme](https://raw.githubusercontent.com/vrbaghel/profile-assets/main/memes/production.jpg) | [@tobi_ui](https://twitter.com/tobi_ui) | When you only test on local | 
 | ![programming meme](https://user-images.githubusercontent.com/89571066/195980001-e61b611f-468e-4a00-98a5-90271926fc8f.jpeg) | @debanjanaly | Who is the strongest on this planet ? |
