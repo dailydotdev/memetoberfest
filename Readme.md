@@ -44,9 +44,12 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 
 ## Entries
 
-| Meme Image or link     | Twitter handle     | Notes     |
-| ---------------------- | ------------------ | --------- | ---------------------------------------------------------------------- |
-| `<Meme image or link>` | `<Twitter handle>` | `<Notes>` | <!-- Example format. Scroll down to the last row to add your meme. --> |
+
+| Meme Image or link  | Twitter handle | Notes |
+| --- | --- | --- |
+| `<Meme image or link>` | `<Twitter handle>` | `<Notes>` | <!-- Example format. Scroll down to the last row to add your meme. -->
+| ![joining hacktoberfest](https://i.imgflip.com/6wr5yr.jpg)| [@instincdev](https://twitter.com/instincdev) | Why we REALLY Join Hacktoberfest  |
+| `https://i.redd.it/p9ncboux99h71.jpg` | `@SudhiKrishnaNA1` | `About Googling and Programmers` |
 | ![bug fixing meme](https://user-images.githubusercontent.com/46662771/195576073-2fce22ed-9f3c-4a8e-a69a-be1ef3a38638.jpg)
 | [@frankiefab100](https://twitter.com/frankiefab100) | The moment you are trying to fix a bug while the users think it is working well. |
 | <img src="https://programmerhumor.io/wp-content/uploads/2022/10/programmerhumor-io-python-memes-backend-memes-410c7ab589e5024.jpg" width="450" height="450"/> | [Astrodevil_](https://mobile.twitter.com/astrodevil_) | `This meme is best suitable for newbies in tech.` |
