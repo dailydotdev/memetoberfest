@@ -44,9 +44,11 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 
 ## Entries
 
-
-| Meme Image or link  | Twitter handle | Notes |
-| --- | --- | --- |
+| Meme Image or link     | Twitter handle     | Notes     |
+| ---------------------- | ------------------ | --------- | ---------------------------------------------------------------------- |
+| `<Meme image or link>` | `<Twitter handle>` | `<Notes>` | <!-- Example format. Scroll down to the last row to add your meme. --> |
+| ![bug fixing meme](https://user-images.githubusercontent.com/46662771/195576073-2fce22ed-9f3c-4a8e-a69a-be1ef3a38638.jpg)
+| [@frankiefab100](https://twitter.com/frankiefab100) | The moment you are trying to fix a bug while the users think it is working well. |
 | <img src="https://programmerhumor.io/wp-content/uploads/2022/10/programmerhumor-io-python-memes-backend-memes-410c7ab589e5024.jpg" width="450" height="450"/> | [Astrodevil_](https://mobile.twitter.com/astrodevil_) | `This meme is best suitable for newbies in tech.` |
 | `<Meme image or link>` | `<Twitter handle>` | `<Notes>` | <!-- Example format. Scroll down to the last row to add your meme. -->
 | ![meme](https://user-images.githubusercontent.com/91528741/195584369-d0dc7bd2-df91-4f9b-a813-049e3b16f4ac.jpg) | [@\_\_tanan__](https://twitter.com/__tanan__) | you can use this to know if developers are actually dead or just pretending. |
@@ -70,7 +72,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 | `https://i.imgur.com/LXeRs0W.png` | `@DevOmar100` | `Same Like me 🚀🔥🔥` |
 | ![image](https://user-images.githubusercontent.com/1681525/195384222-6bf9dd51-9349-4994-9567-ba750a714a0b.png) | `@omBratteng` | This meme feels very meta, and is sure to win |
 |<a href="https://imgflip.com/i/6wmw0r"><img src="https://i.imgflip.com/6wmw0r.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>|[@intelagense](https://twitter.com/intelagense)|Perfectionists will understand.|
-|![meme](https://pbs.twimg.com/media/Fe37M7dWYAAT5up?format=jpg&name=4096x4096) | [@merouanezouaid](https://twitter.com/merouanezouaid) | - Do you remember when we were memorizing the periodic table? haha .. me: We still do tho..  What? but you're a computer science major!?? me: ... |
+|![meme](https://pbs.twimg.com/media/Fe37M7dWYAAT5up?format=jpg&name=4096x4096) | [@merouanezouaid](https://twitter.com/merouanezouaid) | - Do you remember when we were memorizing the periodic table? haha .. me: We still do tho.. What? but you're a computer science major!?? me: ... |
 |![AI is taking over world by storm](https://techresearchonline.com/oadroowh/2022/08/ai-meme.webp)|[@ishan_is_me](https://twitter.com/ishan_is_me)| Meme shows AI taking over world by storm with its image processing ability|
 | ![Cat that likes JS, excited cat that loves TS](https://user-images.githubusercontent.com/3102249/195358255-c5d714f3-b29e-41a2-b52b-d3e87c3ce203.png) | `@codercatdev` | `Classic JavaScript TypeScript fighting words meme` |
 | [Developers meme](https://twitter.com/yusmnn/status/1580180830743572480?s=20&t=gGU-t4GbgIOFIREaVcSi9w)|[@yusmnn](https://twitter.com/yusmnn)| Meme shows developers working|
@@ -86,14 +88,15 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 | ![](https://user-images.githubusercontent.com/65576111/195369904-11b40dac-e8b8-47ef-a303-db510caf3dec.jpg)| `@SrNascimento40` | `An awesome creative meme! Never seen before! Dreamed with it and it's genial!!!` |
 | ![meme](https://user-images.githubusercontent.com/51878265/195262580-f2fb43f2-71e0-4d50-afa4-26266eb62395.png)| [Pradumna Saraf](https://twitter.com/pradumna_saraf) | No chrome tabs, only daily.dev tabs |
 | <img width="820" alt="Tweet by Shubhangi ✿" src="https://user-images.githubusercontent.com/70970530/195259892-84568738-0a05-448f-9f16-44fe4fe2c978.png"> | [@heyShubhi](https://twitter.com/heyShubhi) | Link -> <https://twitter.com/heyShubhi/status/1579087531756298240?s=20&t=l9TbzLxn14P3lyUDchM_ag> |
-| <img height=840 src="https://raw.githubusercontent.com/Rishav-12/memetoberfest/meme-image/spamtoberfest.jpg"> | [@rishavmitra15](https://twitter.com/rishavmitra15) |  |
+| <img height=840 src="https://raw.githubusercontent.com/Rishav-12/memetoberfest/meme-image/spamtoberfest.jpg"> | [@rishavmitra15](https://twitter.com/rishavmitra15) | |
 |![Link](https://raw.githubusercontent.com/0-0Rohit-Roshan/0-0Rohit-Roshan/main/Res/I%20am%20the%20__________%20Developer..jpg) | [00RohitRoshan](https://twitter.com/00RohitRoshan) | Figuring out which developer you are. when you do many.
-![JavaScript Frameworks Meme](https://833250.smushcdn.com/1694534/wp-content/uploads/2021/06/7-768x773.png?lossy=1&strip=1&webp=1)|[@muhib7353](https://twitter.com/muhib7353)| Meme shows Javascript developers are always curious to new frameworks 
+![JavaScript Frameworks Meme](https://833250.smushcdn.com/1694534/wp-content/uploads/2021/06/7-768x773.png?lossy=1&strip=1&webp=1)|[@muhib7353](https://twitter.com/muhib7353)| Meme shows Javascript developers are always curious to new frameworks
 | <img src="https://i.ibb.co/wL5jghr/cpp.png" width="500"> | [@aanxand](https://twitter.com/@aanxand) | `A meme that you usually don't see, but can totally relate to as well` |
 | [npm Install meme](https://twitter.com/vivekpal0x/status/1579836408193159169?s=20&t=s_4DvX2hQzi1sBkMvaox1g) | [@vivekpal0x](https://twitter.com/vivekpal0x) | When you run <code> npm i </code>command 😂
 |![Untitled-8-1](https://user-images.githubusercontent.com/32828966/194521151-c5b0f70c-d17b-4357-9de7-114b00d8c598.png)|@MeetwithYash|-|
-|![Meme](https://external-preview.redd.it/Ii1zae7tWgUklTi6eSE_7YHoENA4ngh5abWIEUrA_jU.png?width=640&crop=smart&auto=webp&s=528f29a6ce5b042bb0c827031d46fcfff60f59aa)|@PallaMohammad| N/A  |
+|![Meme](https://external-preview.redd.it/Ii1zae7tWgUklTi6eSE_7YHoENA4ngh5abWIEUrA_jU.png?width=640&crop=smart&auto=webp&s=528f29a6ce5b042bb0c827031d46fcfff60f59aa)|@PallaMohammad| N/A |
 | ![Meme](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Are-you-a-robot-Meme-1024x925.jpg?x80061) | @iamsajithk | Emotional |
+| ![JavaScript meme](./meme1.png)| @khair_alanam | A meme on JS :) |
 | ![image](https://user-images.githubusercontent.com/35291614/195594540-c70d6694-befc-40cf-be31-fbc97eb374d9.png) | [@covertgravy](https://twitter.com/covertgravy) | TDD |
 | ![Merge conflict meme](https://user-images.githubusercontent.com/2335145/195585836-85cf4b2c-6ea0-4546-a168-393cb3581815.png) | @axolodev | Nothing | 
 | <img src="https://pbs.twimg.com/media/FLJR82kXwAgnx_h?format=png&name=900x900"  width="450" height="450"> | `ashishk1331` | `Dwag uses semi-colon in python` |
