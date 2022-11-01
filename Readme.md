@@ -49,29 +49,29 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 | `<Meme image or link>` | `<Twitter handle>` | `<Notes>` | <!-- Example format. Scroll down to the last row to add your meme. --> |
 | <img src="https://user-images.githubusercontent.com/46662771/195576073-2fce22ed-9f3c-4a8e-a69a-be1ef3a38638.jpg" width="200">| [@frankiefab100](https://twitter.com/frankiefab100) | The moment you are trying to fix a bug while the users think it is working well. |
 | <img src="https://i.imgflip.com/6wr5yr.jpg" width="200">| [@instincdev](https://twitter.com/instincdev) | Why we REALLY Join Hacktoberfest  |
-| <img src="https://i.redd.it/p9ncboux99h71.jpg" width="200"> | @SudhiKrishnaNA1 | About Googling and Programmers |
+| <img src="https://i.redd.it/p9ncboux99h71.jpg" width="200"> | [@SudhiKrishnaNA1](https://twitter.com/SudhiKrishnaNA1) | About Googling and Programmers |
 | <img src="https://programmerhumor.io/wp-content/uploads/2022/10/programmerhumor-io-python-memes-backend-memes-410c7ab589e5024.jpg" width="200"> | [Astrodevil_](https://mobile.twitter.com/astrodevil_) | This meme is best suitable for newbies in tech. |
 | <img src="https://user-images.githubusercontent.com/91528741/195584369-d0dc7bd2-df91-4f9b-a813-049e3b16f4ac.jpg" width="200"> | [tanan__](https://twitter.com/__tanan__) | you can use this to know if developers are actually dead or just pretending |
 | <img src="https://user-images.githubusercontent.com/99729607/195514526-e3fa4397-7862-4d85-9b30-d6ea329b4469.png" width="200"> | [Ali Reza](https://twitter.com/Ali_Developer05) | Front-End & Back-End in Real-Life |
 | <img src="https://i.imgflip.com/6wq0e6.jpg" width="200"> | [@dejacherese](https://twitter.com/DejaCherese) | For the love of CSS |
-| <img src="https://i.imgur.com/UW0VS0J.jpeg" width="200"> | @mezerotm | SpongeBob can't resist new frameworks in his project |
-| <img src="https://user-images.githubusercontent.com/17226499/195440584-68c3f10c-f1cd-4efa-b45b-231458091d34.png" width="200">| @anthonyjvoss | Normalize using UI tools. Command line isn't always the only option and people should feel ok about that :) |
+| <img src="https://i.imgur.com/UW0VS0J.jpeg" width="200"> | [@mezerotm](https://twitter.com/mezerotm) | SpongeBob can't resist new frameworks in his project |
+| <img src="https://user-images.githubusercontent.com/17226499/195440584-68c3f10c-f1cd-4efa-b45b-231458091d34.png" width="200">| [@anthonyjvoss](https://twitter.com/anthonyjvoss) | Normalize using UI tools. Command line isn't always the only option and people should feel ok about that :) |
 | <img src="https://user-images.githubusercontent.com/97435165/195425701-4a2bf03e-c5f5-4a53-9a61-b0bae0d9473a.jpg" width="200"> | [@prajwalsuvarna](https://twitter.com/prajwalsuvarnaa) | Concept of oops :stuck_out_tongue_closed_eyes: |
-| <img src="https://i.imgur.com/SVm2pu9.png" width="200"> | `brjnrr` | Intro to Computing meme **NOR, NAND** |
-| <img src="https://i.imgur.com/XDZXZT0.png" width="200"> | `brjnrr` | I make a program, however, it depends... |
-| <img src="https://i.imgur.com/7ukurtO.png" width="200"> | `brjnrr` | Infinite Cycle |
-| <img src="https://i.imgur.com/J3jW2Vh.png" width="200"> | `brjnrr` | That's programming |
-| <img src="https://drive.google.com/file/d/1XvN_Ft6R2LZAlL571zfhkiXvhntMWfPH/view" width="200"> | @lukejanss | classic drake meme |
-| <img src="https://raw.githubusercontent.com/gokulz/memetoberfest/meme_image/IMG_20221012_165119%20(1).jpg" width="200"> | @gokulzzzzzzz | How C++ reacts to JAVA ! |
-| <img src="https://user-images.githubusercontent.com/79275152/195405813-fae5cf24-112c-4c84-bdec-3d704a9eb72d.png" width="200"> | snehel4510 | **What's My address😉** |
-| <img src="https://user-images.githubusercontent.com/78981177/195394193-a7a508e8-431f-4c06-a842-5f3d0940e52c.jpg)" width="200"> | [Rupali Haldiya](https://twitter.com/rupali_codes) | Github Issues |
-| <img src="https://res.cloudinary.com/ddlhk5yje/image/upload/v1665589360/meme/8_ocpfce.png" width="200"> | PriteshKiri | These is all we listen after years of hard work :) |
-| <img src="https://i.imgur.com/LXeRs0W.png" width="200"> | @DevOmar100 | Same Like me 🚀🔥🔥 |
-| <img src="https://user-images.githubusercontent.com/1681525/195384222-6bf9dd51-9349-4994-9567-ba750a714a0b.png" width="200"> | @omBratteng | This meme feels very meta, and is sure to win |
+| <img src="https://i.imgur.com/SVm2pu9.png" width="200"> | [@brjnrr](https://twitter.com/brjnrr) | Intro to Computing meme **NOR, NAND** |
+| <img src="https://i.imgur.com/XDZXZT0.png" width="200"> | [@brjnrr](https://twitter.com/brjnrr) | I make a program, however, it depends... |
+| <img src="https://i.imgur.com/7ukurtO.png" width="200"> | [@brjnrr](https://twitter.com/brjnrr) | Infinite Cycle |
+| <img src="https://i.imgur.com/J3jW2Vh.png" width="200"> | [@brjnrr](https://twitter.com/brjnrr) | That's programming |
+| <img src="https://drive.google.com/file/d/1XvN_Ft6R2LZAlL571zfhkiXvhntMWfPH/view" width="200"> | [@lukejanss](https://twitter.com/lukejanss) | classic drake meme |
+| <img src="https://raw.githubusercontent.com/gokulz/memetoberfest/meme_image/IMG_20221012_165119%20(1).jpg" width="200"> | [@gokulzzzzzzz](https://twitter.com/gokulzzzzzzz) | How C++ reacts to JAVA ! |
+| <img src="https://user-images.githubusercontent.com/79275152/195405813-fae5cf24-112c-4c84-bdec-3d704a9eb72d.png" width="200"> | [@snehel4510](https://twitter.com/snehel4510) | **What's My address😉** |
+| <img src="https://user-images.githubusercontent.com/78981177/195394193-a7a508e8-431f-4c06-a842-5f3d0940e52c.jpg)" width="200"> | [@rupali_codes](https://twitter.com/rupali_codes) | Github Issues |
+| <img src="https://res.cloudinary.com/ddlhk5yje/image/upload/v1665589360/meme/8_ocpfce.png" width="200"> | [@PriteshKiri](https://twitter.com/PriteshKiri) | These is all we listen after years of hard work :) |
+| <img src="https://i.imgur.com/LXeRs0W.png" width="200"> | [@DevOmar100](https://twitter.com/DevOmar100) | Same Like me 🚀🔥🔥 |
+| <img src="https://user-images.githubusercontent.com/1681525/195384222-6bf9dd51-9349-4994-9567-ba750a714a0b.png" width="200"> | [@omBratteng](https://twitter.com/omBratteng) | This meme feels very meta, and is sure to win |
 | <img src="https://i.imgflip.com/6wmw0r.jpg" title="made at imgflip.com" alt="Giant God Warriors illuminated by flames while standing over a burning city they have destroyed. Top text: Me when I commit a typo. Bottom Text: `git clean -xdf & git reset --hard & git pull" width="200">|[@intelagense](https://twitter.com/intelagense)|Perfectionists will understand.|
 | <img src="https://pbs.twimg.com/media/Fe37M7dWYAAT5up?format=jpg&name=4096x4096)" width="200"> | [@merouanezouaid](https://twitter.com/merouanezouaid) | - Do you remember when we were memorizing the periodic table? haha .. me: We still do tho..  What? but you're a computer science major!?? me: ... |
 | <img src="https://techresearchonline.com/oadroowh/2022/08/ai-meme.webp" width="200">|[@ishan_is_me](https://twitter.com/ishan_is_me)| Meme shows AI taking over world by storm with its image processing ability|
-| <img src="https://user-images.githubusercontent.com/3102249/195358255-c5d714f3-b29e-41a2-b52b-d3e87c3ce203.png" width="200"> | `@codercatdev` | Classic JavaScript TypeScript fighting words meme |
+| <img src="https://user-images.githubusercontent.com/3102249/195358255-c5d714f3-b29e-41a2-b52b-d3e87c3ce203.png" width="200"> | [@codercatdev](https://twitter.com/codercatdev) | Classic JavaScript TypeScript fighting words meme |
 | <img src="https://twitter.com/yusmnn/status/1580180830743572480?s=20&t=gGU-t4GbgIOFIREaVcSi9w" width="200">|[@yusmnn](https://twitter.com/yusmnn)| Meme shows developers working|
 | <img src="https://imgflip.com/i/6tcx2a" width="200"> | [Twitter](https://twitter.com/pandeysp885) | Vscode Meme |
 | <img src="https://i.imgflip.com/6wmbpo.jpg" width="200"> | @RemiRobichet | 'Left Exit 12 Off Ramp' meme |
