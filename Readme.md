@@ -98,6 +98,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 |![Untitled-8-1](https://user-images.githubusercontent.com/32828966/194521151-c5b0f70c-d17b-4357-9de7-114b00d8c598.png)|@MeetwithYash|-|
 |![Meme](https://external-preview.redd.it/Ii1zae7tWgUklTi6eSE_7YHoENA4ngh5abWIEUrA_jU.png?width=640&crop=smart&auto=webp&s=528f29a6ce5b042bb0c827031d46fcfff60f59aa)|@PallaMohammad| N/A |
 | ![Meme](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Are-you-a-robot-Meme-1024x925.jpg?x80061) | @iamsajithk | Emotional |
+| ![Screenshot 2022-06-07 111218](https://user-images.githubusercontent.com/101868279/196084805-674bf58e-1c56-40b3-bcc1-9720f85aaa3f.jpg) |[Aarya Chopkar](https://twitter.com/ChopkarAarya) | ```Programmers VS Mathematicians``` |
 | ![image](https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33be8cf4ba7565123c8bc_YPD3ulQQAGQpOcnqIm3QzSTRgzmr1SexpW9ZjMpJ1mAnUxx4iF05XOTu44sk0qQG-8XgBcYmGZGAD-5SAZvJl3TjtmhgWnn-w0C2XKwhBscV78RVvhwZfyp0v_Pa6sNj5zxpOvRW.png) | [Tania Banerjee](https://twitter.com/taniaban2712) | `When the code works fine but you don't understand why` |
 | ![PicsArt_10-16-09 23 45](https://user-images.githubusercontent.com/71027441/196046926-80feb277-5f37-4746-a4a0-6b279f92086f.jpg) | @PrabhatSar10 | Life of a developer, full of misery! |
 | ![Meme](https://shorturl.at/adEMS) | [@rajeshkhadka200](https://twitter.com/rajeshkhadka200) | Ley : developer don't know about docker 😂 |
@@ -124,6 +125,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 | ![image](https://user-images.githubusercontent.com/35291614/195594540-c70d6694-befc-40cf-be31-fbc97eb374d9.png) | [@covertgravy](https://twitter.com/covertgravy) | TDD |
 | ![Merge conflict meme](https://user-images.githubusercontent.com/2335145/195585836-85cf4b2c-6ea0-4546-a168-393cb3581815.png) | @axolodev | Nothing | 
 | <img src="https://pbs.twimg.com/media/FLJR82kXwAgnx_h?format=png&name=900x900"  width="450" height="450"> | `ashishk1331` | `Dwag uses semi-colon in python` |
+| <img src='https://twitter.com/fais18130049/status/1581600359109529607?s=46&t=4c34MdFdLrgKyj78oQ9RPQ'> | @Fais18130049 | Based on the most famous dailogue in an indian movie. |
 
 <!-- Add your meme directly above this comment. -->
 
