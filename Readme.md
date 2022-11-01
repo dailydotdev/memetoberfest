@@ -95,6 +95,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 |![Untitled-8-1](https://user-images.githubusercontent.com/32828966/194521151-c5b0f70c-d17b-4357-9de7-114b00d8c598.png)|@MeetwithYash|-|
 |![Meme](https://external-preview.redd.it/Ii1zae7tWgUklTi6eSE_7YHoENA4ngh5abWIEUrA_jU.png?width=640&crop=smart&auto=webp&s=528f29a6ce5b042bb0c827031d46fcfff60f59aa)|@PallaMohammad| N/A |
 | ![Meme](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Are-you-a-robot-Meme-1024x925.jpg?x80061) | @iamsajithk | Emotional |
+| ![Meme]([https://www.thecoderpedia.com/wp-content/uploads/2020/06/Are-you-a-robot-Meme-1024x925.jpg?x80061](https://res.cloudinary.com/practicaldev/image/fetch/s--GbR54q6A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/o47pkyxulsus01kixx11.png)) | @jhayjahswill | When you have set the z-index propert to 10000 and the div still isn't showing 😂 |
 | ![Github contributors meme](https://twitter.com/PR0GRAMMERHUM0R/status/1582235055845675009)| [Pradeep Rao K](https://twitter.com/PradeepRaoK1) | Meme about github contributors |
 | ![Meme](https://raw.githubusercontent.com/var-rishabh/var-rishabh/main/assets/image/I%20am%20Full%20Stack%20Developer.png) | [@var_rishabh](https://twitter.com/var_rishabh)| Software those days were easy to repair. |
 | ![Meme](./Image/CSS%20Meme.jpg) | [@captainWaheed43](https://twitter.com/captainWaheed43) | Everytime |
