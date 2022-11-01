@@ -59,6 +59,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 | ![image0](https://user-images.githubusercontent.com/97435165/195425701-4a2bf03e-c5f5-4a53-9a61-b0bae0d9473a.jpg) | [@prajwalsuvarna](https://twitter.com/prajwalsuvarnaa) | Concept of oops :stuck_out_tongue_closed_eyes: |
 | <img src="https://i.imgur.com/SVm2pu9.png"  width="450" height="450"> | `brjnrr` | Intro to Computing meme **NOR, NAND** |
 | <img src="https://i.imgur.com/XDZXZT0.png"  width="450" height="450"> | `brjnrr` | I make a program, however, it depends... |
+| <img src="https://i.imgur.com/7ukurtO.png"  width="450" height="450"> | `brjnrr` | Infinite Cycle |
 | [hotline](https://drive.google.com/file/d/1XvN_Ft6R2LZAlL571zfhkiXvhntMWfPH/view?usp=sharing) | @lukejanss | classic drake meme |
 | https://raw.githubusercontent.com/gokulz/memetoberfest/meme_image/IMG_20221012_165119%20(1).jpg | @gokulzzzzzzz | How C++ reacts to JAVA ! |
 | <img src="https://user-images.githubusercontent.com/79275152/195405813-fae5cf24-112c-4c84-bdec-3d704a9eb72d.png"  width="450" height="450"> | `snehel4510` | **What's My address😉** |
@@ -92,9 +93,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 |![Meme](https://external-preview.redd.it/Ii1zae7tWgUklTi6eSE_7YHoENA4ngh5abWIEUrA_jU.png?width=640&crop=smart&auto=webp&s=528f29a6ce5b042bb0c827031d46fcfff60f59aa)|@PallaMohammad| N/A  |
 | ![Meme](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Are-you-a-robot-Meme-1024x925.jpg?x80061) | @iamsajithk | Emotional |
 
-
 <!-- Add your meme directly above this comment. -->
-
 
 
 ## Credits
