@@ -48,8 +48,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 | Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
 | `<Meme image or link>` | `<Twitter handle>` | `<Notes>` | <!-- Example format. Scroll down to the last row to add your meme. -->
-| ![bug fixing meme](https://user-images.githubusercontent.com/46662771/195576073-2fce22ed-9f3c-4a8e-a69a-be1ef3a38638.jpg)
- | [@frankiefab100](https://twitter.com/frankiefab100) | The moment you are trying to fix a bug while the users think it is working well. |
+| ![bug fixing meme](https://user-images.githubusercontent.com/46662771/195576073-2fce22ed-9f3c-4a8e-a69a-be1ef3a38638.jpg)| [@frankiefab100](https://twitter.com/frankiefab100) | The moment you are trying to fix a bug while the users think it is working well. |
 | `https://i.redd.it/p9ncboux99h71.jpg` | `@SudhiKrishnaNA1` | `About Googling and Programmers` |
 | ![image](https://user-images.githubusercontent.com/99729607/195514526-e3fa4397-7862-4d85-9b30-d6ea329b4469.png) | [Ali Reza](https://twitter.com/Ali_Developer05) | `Front-End & Back-End in Real-Life` |
 | <a href="https://imgflip.com/i/6wq0e6"><img src="https://i.imgflip.com/6wq0e6.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div> | [@dejacherese](https://twitter.com/DejaCherese) | <For the love of CSS.> |
