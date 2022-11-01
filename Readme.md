@@ -98,6 +98,11 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 |![Untitled-8-1](https://user-images.githubusercontent.com/32828966/194521151-c5b0f70c-d17b-4357-9de7-114b00d8c598.png)|@MeetwithYash|-|
 |![Meme](https://external-preview.redd.it/Ii1zae7tWgUklTi6eSE_7YHoENA4ngh5abWIEUrA_jU.png?width=640&crop=smart&auto=webp&s=528f29a6ce5b042bb0c827031d46fcfff60f59aa)|@PallaMohammad| N/A |
 | ![Meme](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Are-you-a-robot-Meme-1024x925.jpg?x80061) | @iamsajithk | Emotional |
+| ![meme](https://user-images.githubusercontent.com/14253061/198203950-15c95a40-bfd7-4cb1-b62a-da6ae5c06dfe.jpeg) | [@ZubeenSyed](https://twitter.com/ZubeenSyed) | `You're hired.` |
+|  ![1](https://user-images.githubusercontent.com/14253061/198204058-a646e2de-1057-4c26-8c57-40db9e87a349.jpeg) | [@ZubeenSyed](https://twitter.com/ZubeenSyed) | `DROP TABLE table_name;` |
+| ![2](https://user-images.githubusercontent.com/14253061/198204145-6941bd95-4400-401f-ae67-9bd6816ec7e5.jpeg) | [@ZubeenSyed](https://twitter.com/ZubeenSyed) | `That's just the way we roll or rather traverse` |
+| ![3](https://user-images.githubusercontent.com/14253061/198204183-becee89b-8c84-4306-afe3-ad3016fb2f8e.jpeg) | [@ZubeenSyed](https://twitter.com/ZubeenSyed) | `Is Python gonna replace Internet Explorer now :D ` |
+|  ![5](https://user-images.githubusercontent.com/14253061/198204225-7d74fbfa-629c-4492-99e6-7c822fcaacef.jpeg) | [@ZubeenSyed](https://twitter.com/ZubeenSyed) | `Just missed out by an =` |
 |![HarryPotter_Python](https://user-images.githubusercontent.com/9339984/197940612-5402c10d-00ce-45e8-8d94-334d613bec12.jpg) | [Tc2r1] (https://twitter.com/tc2r1) | Programming Wizard! |
 | ![Meme](https://i.imgflip.com/6y83ci.jpg) | [@piece_of_irony](https://twitter.com/piece_of_irony) | 
 | ![MEME](/Image/SantaMemeBySomeone.png) | @ShrutiGajbhiye9 | create an operating system using HTML |
