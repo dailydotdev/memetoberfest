@@ -98,6 +98,8 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 |![Untitled-8-1](https://user-images.githubusercontent.com/32828966/194521151-c5b0f70c-d17b-4357-9de7-114b00d8c598.png)|@MeetwithYash|-|
 |![Meme](https://external-preview.redd.it/Ii1zae7tWgUklTi6eSE_7YHoENA4ngh5abWIEUrA_jU.png?width=640&crop=smart&auto=webp&s=528f29a6ce5b042bb0c827031d46fcfff60f59aa)|@PallaMohammad| N/A |
 | ![Meme](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Are-you-a-robot-Meme-1024x925.jpg?x80061) | @iamsajithk | Emotional |
+| ![Meme](https://i.imgur.com/f8A2R6S.jpg) | @__MoskalykA__ | Small changes in CSS |
+| ![Meme](https://i.imgur.com/f6niBOk.jpg) | @__MoskalykA__ | The reaction to the bugs |
 | ![meme](https://user-images.githubusercontent.com/14253061/198203950-15c95a40-bfd7-4cb1-b62a-da6ae5c06dfe.jpeg) | [@ZubeenSyed](https://twitter.com/ZubeenSyed) | `You're hired.` |
 |  ![1](https://user-images.githubusercontent.com/14253061/198204058-a646e2de-1057-4c26-8c57-40db9e87a349.jpeg) | [@ZubeenSyed](https://twitter.com/ZubeenSyed) | `DROP TABLE table_name;` |
 | ![2](https://user-images.githubusercontent.com/14253061/198204145-6941bd95-4400-401f-ae67-9bd6816ec7e5.jpeg) | [@ZubeenSyed](https://twitter.com/ZubeenSyed) | `That's just the way we roll or rather traverse` |
