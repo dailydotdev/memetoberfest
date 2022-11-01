@@ -98,6 +98,8 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 |![Untitled-8-1](https://user-images.githubusercontent.com/32828966/194521151-c5b0f70c-d17b-4357-9de7-114b00d8c598.png)|@MeetwithYash|-|
 |![Meme](https://external-preview.redd.it/Ii1zae7tWgUklTi6eSE_7YHoENA4ngh5abWIEUrA_jU.png?width=640&crop=smart&auto=webp&s=528f29a6ce5b042bb0c827031d46fcfff60f59aa)|@PallaMohammad| N/A |
 | ![Meme](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Are-you-a-robot-Meme-1024x925.jpg?x80061) | @iamsajithk | Emotional |
+| ![meme](https://res.cloudinary.com/practicaldev/image/fetch/s--Pdde2xfR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/niyebzdpb8dtawlbfuzt.jpg) | [@LeviArista](https://twitter.com/LeviArista) | |
+| ![meme](https://res.cloudinary.com/practicaldev/image/fetch/s--bvS9BEBv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/doi6nb17k5hndlvlr85y.jpg) | [@LeviArista](https://twitter.com/LeviArista) | |
 | <img src="image/memeArsalan.jpg" width="552px" height = "593px"> | [@Arsalan_0101](https://twitter.com/Arsalan_0101) | `A normal day in the life of programmers` |
 | ![Meme](https://www.boredpanda.com/blog/wp-content/uploads/2021/12/2-61ae1e704e406__700.jpg) | @KiranRai425 | hacking scene in movie |
 | ![s28zf8y4pea91](https://user-images.githubusercontent.com/77519009/196124080-5e65c82d-df5a-4eea-9869-5f429669bd1a.gif) | [@shivanshx365](https://twitter.com/shivanshx365) | This is how debugging works in real life |
