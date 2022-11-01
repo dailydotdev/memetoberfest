@@ -98,6 +98,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 |![Untitled-8-1](https://user-images.githubusercontent.com/32828966/194521151-c5b0f70c-d17b-4357-9de7-114b00d8c598.png)|@MeetwithYash|-|
 |![Meme](https://external-preview.redd.it/Ii1zae7tWgUklTi6eSE_7YHoENA4ngh5abWIEUrA_jU.png?width=640&crop=smart&auto=webp&s=528f29a6ce5b042bb0c827031d46fcfff60f59aa)|@PallaMohammad| N/A |
 | ![Meme](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Are-you-a-robot-Meme-1024x925.jpg?x80061) | @iamsajithk | Emotional |
+| <img height=840 src="Image/unclememe.jpeg"> | @devMukhtar | the moment your uncle ask you to fix his printer because you told him you are a developer | 
 |![meme](https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33be8cf4ba7565123c8bc_YPD3ulQQAGQpOcnqIm3QzSTRgzmr1SexpW9ZjMpJ1mAnUxx4iF05XOTu44sk0qQG-8XgBcYmGZGAD-5SAZvJl3TjtmhgWnn-w0C2XKwhBscV78RVvhwZfyp0v_Pa6sNj5zxpOvRW.png) | [@kundan_k_](https://twitter.com/kundan_k_) | - oh that's why |
 | ![my meme](https://user-images.githubusercontent.com/111836493/195917830-eeccfb41-2e36-4e5c-81d0-5a7e028a2501.png)   | [@Divvstwt](https://twitter.com/Divvstwt) | 
 | <img src = "https://github.com/PentW0lf/memetoberfest/blob/main/Image/techmeme.jpg"> | [@0ayaanqadri](https://twitter.com/0ayaanqadri) | `Beginners reality` |
@@ -113,6 +114,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 | ![image](https://user-images.githubusercontent.com/35291614/195594540-c70d6694-befc-40cf-be31-fbc97eb374d9.png) | [@covertgravy](https://twitter.com/covertgravy) | TDD |
 | ![Merge conflict meme](https://user-images.githubusercontent.com/2335145/195585836-85cf4b2c-6ea0-4546-a168-393cb3581815.png) | @axolodev | Nothing | 
 | <img src="https://pbs.twimg.com/media/FLJR82kXwAgnx_h?format=png&name=900x900"  width="450" height="450"> | `ashishk1331` | `Dwag uses semi-colon in python` |
+
 
 <!-- Add your meme directly above this comment. -->
 
