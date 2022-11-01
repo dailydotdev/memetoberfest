@@ -58,6 +58,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 | ![image](https://user-images.githubusercontent.com/17226499/195440584-68c3f10c-f1cd-4efa-b45b-231458091d34.png)| @anthonyjvoss | Normalize using UI tools. Command line isn't always the only option and people should feel ok about that :) |
 | ![image0](https://user-images.githubusercontent.com/97435165/195425701-4a2bf03e-c5f5-4a53-9a61-b0bae0d9473a.jpg) | [@prajwalsuvarna](https://twitter.com/prajwalsuvarnaa) | Concept of oops :stuck_out_tongue_closed_eyes: |
 | <img src="https://i.imgur.com/SVm2pu9.png"  width="450" height="450"> | `brjnrr` | Intro to Computing meme **NOR, NAND** |
+| <img src="https://i.imgur.com/XDZXZT0.png"  width="450" height="450"> | `brjnrr` | I make a program, however, it depends... |
 | [hotline](https://drive.google.com/file/d/1XvN_Ft6R2LZAlL571zfhkiXvhntMWfPH/view?usp=sharing) | @lukejanss | classic drake meme |
 | https://raw.githubusercontent.com/gokulz/memetoberfest/meme_image/IMG_20221012_165119%20(1).jpg | @gokulzzzzzzz | How C++ reacts to JAVA ! |
 | <img src="https://user-images.githubusercontent.com/79275152/195405813-fae5cf24-112c-4c84-bdec-3d704a9eb72d.png"  width="450" height="450"> | `snehel4510` | **What's My address😉** |
@@ -93,6 +94,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 
 
 <!-- Add your meme directly above this comment. -->
+
 
 
 ## Credits
