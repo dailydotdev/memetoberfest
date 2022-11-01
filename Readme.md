@@ -44,7 +44,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 
 ## Entries
 
-| Meme Image or link     | Twitter handle   | Notes   |
+| Meme Image or link     | Twitter handle   | Notes                                   |
 | ------------------- | ---------------- | ------- | 
 | `<Meme image or link>` | `<Twitter handle>` | `<Notes>` | <!-- Example format. Scroll down to the last row to add your meme. --> |
 | <img src="https://user-images.githubusercontent.com/46662771/195576073-2fce22ed-9f3c-4a8e-a69a-be1ef3a38638.jpg" width="200">| [@frankiefab100](https://twitter.com/frankiefab100) | The moment you are trying to fix a bug while the users think it is working well. |
@@ -80,9 +80,9 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 | <img src="https://imgs.search.brave.com/5u6lt60tf2MIRkbv-ygHqu_2ubycGJUejp4wPVmF8vA/rs:fit:553:500:1/g:ce/aHR0cHM6Ly9pLmlt/Z2ZsaXAuY29tLzQz/ZG94MC5qcGc" width="200"> | [@PGautam27](https://twitter.com/PGautam27) | I agree to this😂. Cause I never knew what github pro was during my two years of ug and yet I had it 😂|
 | <img src="https://user-images.githubusercontent.com/70331030/195318282-8dc56d8b-0399-4756-b573-3d7adda22384.jpg" width="200"> | @jesulonimii | me when applying for a remote job 😅 |
 | <img src="https://user-images.githubusercontent.com/78784850/195296809-6624e19e-0ed2-454d-b102-5b4fce7ca1bf.jpg" width="200"> | `DunsinWebDev` | ALT: Clowning when building a new project and trying a new tech stack |
-| <img src="https://savvasstephanides.github.io/bucket/memetoberfest/memetoberfest.gif" width="200"> | `@SavvasStephnds` | ALT: Animated female character excitedly waving with eyes and mouth wide open |
-| <img src="https://user-images.githubusercontent.com/63906669/195282130-c07a6724-5a46-4059-a645-c569b6367c6a.png" width="200">|[Amruth Acharya] (https://twitter.com/achaamruth) | Pope has praised daily.dev |
-| <img src="https://user-images.githubusercontent.com/9339984/197942338-0dab1f4b-5385-486d-ba69-ab7732af7a25.jpg)" width="200"> | [Tc2r1] (https://twitter.com/tc2r1) | Constant Pump! |
+| <img src="https://savvasstephanides.github.io/bucket/memetoberfest/memetoberfest.gif" width="200"> | @SavvasStephnds | ALT: Animated female character excitedly waving with eyes and mouth wide open |
+| <img src="https://user-images.githubusercontent.com/63906669/195282130-c07a6724-5a46-4059-a645-c569b6367c6a.png" width="200">| [Amruth Acharya](https://twitter.com/achaamruth) | Pope has praised daily.dev |
+| <img src="https://user-images.githubusercontent.com/9339984/197942338-0dab1f4b-5385-486d-ba69-ab7732af7a25.jpg)" width="200"> | [Tc2r1](https://twitter.com/tc2r1) | Constant Pump! |
 | <img src="https://user-images.githubusercontent.com/65576111/195369904-11b40dac-e8b8-47ef-a303-db510caf3dec.jpg" width="200">)| `@SrNascimento40` | An awesome creative meme! Never seen before! Dreamed with it and it's genial!!! |
 | <img src="https://user-images.githubusercontent.com/51878265/195262580-f2fb43f2-71e0-4d50-afa4-26266eb62395.png" width="200">)| [Pradumna Saraf](https://twitter.com/pradumna_saraf) | No chrome tabs, only daily.dev tabs |
 | <img src="https://user-images.githubusercontent.com/70970530/195259892-84568738-0a05-448f-9f16-44fe4fe2c978.png" width="200">) | [@heyShubhi](https://twitter.com/heyShubhi) |Nerd-Joke|
