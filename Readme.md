@@ -98,6 +98,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 |![Untitled-8-1](https://user-images.githubusercontent.com/32828966/194521151-c5b0f70c-d17b-4357-9de7-114b00d8c598.png)|@MeetwithYash|-|
 |![Meme](https://external-preview.redd.it/Ii1zae7tWgUklTi6eSE_7YHoENA4ngh5abWIEUrA_jU.png?width=640&crop=smart&auto=webp&s=528f29a6ce5b042bb0c827031d46fcfff60f59aa)|@PallaMohammad| N/A |
 | ![Meme](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Are-you-a-robot-Meme-1024x925.jpg?x80061) | @iamsajithk | Emotional |
+| ![meme](https://user-images.githubusercontent.com/79108273/198977913-c71e90f4-b0f8-4b1f-a936-49dabc8c9436.jpeg) | @boradesanket13 |-|
 | ![Production bug fix meme](Image/production-bug-fix-meme.gif) | [@aashishpanthi11](https://twitter.com/aashishpanthi11) | Different level of satisfaction after fixing a bug on production |
 |![Be like a programmer](https://user-images.githubusercontent.com/91387533/198845554-d7336626-d81f-48b3-b4dc-04a618df2154.jpg) | [@emSoumik](https://twitter.com/emSoumik) | A typical day of a programmer's life |
 | ![meme](https://cdn.ebaumsworld.com/mediaFiles/picture/2502212/86588813.png)| [goobric Mikal](https://twitter.com/goobric) | Hello World |
