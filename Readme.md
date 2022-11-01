@@ -44,10 +44,9 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 
 ## Entries
 
-
-| Meme Image or link  | Twitter handle | Notes |
-| --- | --- | --- |
-| `<Meme image or link>` | `<Twitter handle>` | `<Notes>` | <!-- Example format. Scroll down to the last row to add your meme. -->
+| Meme Image or link     | Twitter handle     | Notes     |
+| ---------------------- | ------------------ | --------- | ---------------------------------------------------------------------- |
+| `<Meme image or link>` | `<Twitter handle>` | `<Notes>` | <!-- Example format. Scroll down to the last row to add your meme. --> |
 | ![joining hacktoberfest](https://i.imgflip.com/6wr5yr.jpg)| [@instincdev](https://twitter.com/instincdev) | Why we REALLY Join Hacktoberfest  |
 | `https://i.redd.it/p9ncboux99h71.jpg` | `@SudhiKrishnaNA1` | `About Googling and Programmers` |
 | ![bug fixing meme](https://user-images.githubusercontent.com/46662771/195576073-2fce22ed-9f3c-4a8e-a69a-be1ef3a38638.jpg)
@@ -56,7 +55,6 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 | `<Meme image or link>` | `<Twitter handle>` | `<Notes>` | <!-- Example format. Scroll down to the last row to add your meme. -->
 | ![meme](https://user-images.githubusercontent.com/91528741/195584369-d0dc7bd2-df91-4f9b-a813-049e3b16f4ac.jpg) | [@\_\_tanan__](https://twitter.com/__tanan__) | you can use this to know if developers are actually dead or just pretending. |
 | ![bug fixing meme](https://user-images.githubusercontent.com/46662771/195576073-2fce22ed-9f3c-4a8e-a69a-be1ef3a38638.jpg) | [@frankiefab100](https://twitter.com/frankiefab100) | The moment you are trying to fix a bug while the users think it is working well. |
-| ![bug fixing meme](https://user-images.githubusercontent.com/46662771/195576073-2fce22ed-9f3c-4a8e-a69a-be1ef3a38638.jpg)| [@frankiefab100](https://twitter.com/frankiefab100) | The moment you are trying to fix a bug while the users think it is working well. |
 | `https://i.redd.it/p9ncboux99h71.jpg` | `@SudhiKrishnaNA1` | `About Googling and Programmers` |
 | ![image](https://user-images.githubusercontent.com/99729607/195514526-e3fa4397-7862-4d85-9b30-d6ea329b4469.png) | [Ali Reza](https://twitter.com/Ali_Developer05) | `Front-End & Back-End in Real-Life` |
 | <a href="https://imgflip.com/i/6wq0e6"><img src="https://i.imgflip.com/6wq0e6.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div> | [@dejacherese](https://twitter.com/DejaCherese) | <For the love of CSS.> |
@@ -100,6 +98,8 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 |![Untitled-8-1](https://user-images.githubusercontent.com/32828966/194521151-c5b0f70c-d17b-4357-9de7-114b00d8c598.png)|@MeetwithYash|-|
 |![Meme](https://external-preview.redd.it/Ii1zae7tWgUklTi6eSE_7YHoENA4ngh5abWIEUrA_jU.png?width=640&crop=smart&auto=webp&s=528f29a6ce5b042bb0c827031d46fcfff60f59aa)|@PallaMohammad| N/A |
 | ![Meme](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Are-you-a-robot-Meme-1024x925.jpg?x80061) | @iamsajithk | Emotional |
+| ![Computer programmer](https://user-images.githubusercontent.com/25850598/195797347-5f9b9c0d-dcac-4d84-b0d8-b7d7930d13dd.png) | [@terieyenike](https://twitter.com/terieyenike) | Job meme |
+| ![It works](https://user-images.githubusercontent.com/25850598/195799933-313de8c6-3c4e-4d88-b21f-cd7ebd6bc2bd.jpg) | [@terieyenike](https://twitter.com/terieyenike) | It works on my system |
 | <img src="https://pbs.twimg.com/media/FfAdhYmUUAIOUxN?format=jpg&name=900x900" width="500"> | [Harshit Gupta](https://twitter.com/Harshit60886919) | `A meme that you can totally relate to` |
 | ![Desert decision meme, a person would much rather spend more time googling without thinking rather than using debugging tools](https://user-images.githubusercontent.com/78604367/195753173-795ac721-b59c-4c01-bff7-126c8aaa839d.png) | [@20jasper](https://twitter.com/20jasper) |  |
 | ![inspect-page-meme](https://user-images.githubusercontent.com/70577616/195661112-6b5008b6-eb0f-4cbf-b153-f4c06839cf57.png) | [Ruchita](https://twitter.com/_ruchita1010) | When stackoverflow doesn't help, F12 or Ctrl+Shift+I does 😂 |
