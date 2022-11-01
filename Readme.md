@@ -47,9 +47,11 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 
 | Meme Image or link  | Twitter handle | Notes |
 | --- | --- | --- |
+| <img src="https://programmerhumor.io/wp-content/uploads/2022/10/programmerhumor-io-python-memes-backend-memes-410c7ab589e5024.jpg" width="450" height="450"/> | [Astrodevil_](https://mobile.twitter.com/astrodevil_) | `This meme is best suitable for newbies in tech.` |
 | `<Meme image or link>` | `<Twitter handle>` | `<Notes>` | <!-- Example format. Scroll down to the last row to add your meme. -->
-| ![bug fixing meme](https://user-images.githubusercontent.com/46662771/195576073-2fce22ed-9f3c-4a8e-a69a-be1ef3a38638.jpg)
- | [@frankiefab100](https://twitter.com/frankiefab100) | The moment you are trying to fix a bug while the users think it is working well. |
+| ![meme](https://user-images.githubusercontent.com/91528741/195584369-d0dc7bd2-df91-4f9b-a813-049e3b16f4ac.jpg) | [@\_\_tanan__](https://twitter.com/__tanan__) | you can use this to know if developers are actually dead or just pretending. |
+| ![bug fixing meme](https://user-images.githubusercontent.com/46662771/195576073-2fce22ed-9f3c-4a8e-a69a-be1ef3a38638.jpg) | [@frankiefab100](https://twitter.com/frankiefab100) | The moment you are trying to fix a bug while the users think it is working well. |
+| ![bug fixing meme](https://user-images.githubusercontent.com/46662771/195576073-2fce22ed-9f3c-4a8e-a69a-be1ef3a38638.jpg)| [@frankiefab100](https://twitter.com/frankiefab100) | The moment you are trying to fix a bug while the users think it is working well. |
 | `https://i.redd.it/p9ncboux99h71.jpg` | `@SudhiKrishnaNA1` | `About Googling and Programmers` |
 | ![image](https://user-images.githubusercontent.com/99729607/195514526-e3fa4397-7862-4d85-9b30-d6ea329b4469.png) | [Ali Reza](https://twitter.com/Ali_Developer05) | `Front-End & Back-End in Real-Life` |
 | <a href="https://imgflip.com/i/6wq0e6"><img src="https://i.imgflip.com/6wq0e6.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div> | [@dejacherese](https://twitter.com/DejaCherese) | <For the love of CSS.> |
@@ -57,6 +59,9 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 | ![image](https://user-images.githubusercontent.com/17226499/195440584-68c3f10c-f1cd-4efa-b45b-231458091d34.png)| @anthonyjvoss | Normalize using UI tools. Command line isn't always the only option and people should feel ok about that :) |
 | ![image0](https://user-images.githubusercontent.com/97435165/195425701-4a2bf03e-c5f5-4a53-9a61-b0bae0d9473a.jpg) | [@prajwalsuvarna](https://twitter.com/prajwalsuvarnaa) | Concept of oops :stuck_out_tongue_closed_eyes: |
 | <img src="https://i.imgur.com/SVm2pu9.png"  width="450" height="450"> | `brjnrr` | Intro to Computing meme **NOR, NAND** |
+| <img src="https://i.imgur.com/XDZXZT0.png"  width="450" height="450"> | `brjnrr` | I make a program, however, it depends... |
+| <img src="https://i.imgur.com/7ukurtO.png"  width="450" height="450"> | `brjnrr` | Infinite Cycle |
+| <img src="https://i.imgur.com/J3jW2Vh.png"  width="450" height="450"> | `brjnrr` | That's programming |
 | [hotline](https://drive.google.com/file/d/1XvN_Ft6R2LZAlL571zfhkiXvhntMWfPH/view?usp=sharing) | @lukejanss | classic drake meme |
 | https://raw.githubusercontent.com/gokulz/memetoberfest/meme_image/IMG_20221012_165119%20(1).jpg | @gokulzzzzzzz | How C++ reacts to JAVA ! |
 | <img src="https://user-images.githubusercontent.com/79275152/195405813-fae5cf24-112c-4c84-bdec-3d704a9eb72d.png"  width="450" height="450"> | `snehel4510` | **What's My address😉** |
@@ -92,6 +97,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 |  <img src="https://pbs.twimg.com/media/FLJR82kXwAgnx_h?format=png&name=900x900"  width="450" height="450"> | `ashishk1331` | `Dwag uses semi-colon in python` |
 
 <!-- Add your meme directly above this comment. -->
+
 
 ## Credits
 
