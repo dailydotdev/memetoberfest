@@ -47,9 +47,14 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 | Meme Image or link     | Twitter handle     | Notes     |
 | ---------------------- | ------------------ | --------- | ---------------------------------------------------------------------- |
 | `<Meme image or link>` | `<Twitter handle>` | `<Notes>` | <!-- Example format. Scroll down to the last row to add your meme. --> |
-
+| ![joining hacktoberfest](https://i.imgflip.com/6wr5yr.jpg)| [@instincdev](https://twitter.com/instincdev) | Why we REALLY Join Hacktoberfest  |
+| `https://i.redd.it/p9ncboux99h71.jpg` | `@SudhiKrishnaNA1` | `About Googling and Programmers` |
 | ![bug fixing meme](https://user-images.githubusercontent.com/46662771/195576073-2fce22ed-9f3c-4a8e-a69a-be1ef3a38638.jpg)
 | [@frankiefab100](https://twitter.com/frankiefab100) | The moment you are trying to fix a bug while the users think it is working well. |
+| <img src="https://programmerhumor.io/wp-content/uploads/2022/10/programmerhumor-io-python-memes-backend-memes-410c7ab589e5024.jpg" width="450" height="450"/> | [Astrodevil_](https://mobile.twitter.com/astrodevil_) | `This meme is best suitable for newbies in tech.` |
+| `<Meme image or link>` | `<Twitter handle>` | `<Notes>` | <!-- Example format. Scroll down to the last row to add your meme. -->
+| ![meme](https://user-images.githubusercontent.com/91528741/195584369-d0dc7bd2-df91-4f9b-a813-049e3b16f4ac.jpg) | [@\_\_tanan__](https://twitter.com/__tanan__) | you can use this to know if developers are actually dead or just pretending. |
+| ![bug fixing meme](https://user-images.githubusercontent.com/46662771/195576073-2fce22ed-9f3c-4a8e-a69a-be1ef3a38638.jpg) | [@frankiefab100](https://twitter.com/frankiefab100) | The moment you are trying to fix a bug while the users think it is working well. |
 | `https://i.redd.it/p9ncboux99h71.jpg` | `@SudhiKrishnaNA1` | `About Googling and Programmers` |
 | ![image](https://user-images.githubusercontent.com/99729607/195514526-e3fa4397-7862-4d85-9b30-d6ea329b4469.png) | [Ali Reza](https://twitter.com/Ali_Developer05) | `Front-End & Back-End in Real-Life` |
 | <a href="https://imgflip.com/i/6wq0e6"><img src="https://i.imgflip.com/6wq0e6.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div> | [@dejacherese](https://twitter.com/DejaCherese) | <For the love of CSS.> |
@@ -57,6 +62,9 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 | ![image](https://user-images.githubusercontent.com/17226499/195440584-68c3f10c-f1cd-4efa-b45b-231458091d34.png)| @anthonyjvoss | Normalize using UI tools. Command line isn't always the only option and people should feel ok about that :) |
 | ![image0](https://user-images.githubusercontent.com/97435165/195425701-4a2bf03e-c5f5-4a53-9a61-b0bae0d9473a.jpg) | [@prajwalsuvarna](https://twitter.com/prajwalsuvarnaa) | Concept of oops :stuck_out_tongue_closed_eyes: |
 | <img src="https://i.imgur.com/SVm2pu9.png"  width="450" height="450"> | `brjnrr` | Intro to Computing meme **NOR, NAND** |
+| <img src="https://i.imgur.com/XDZXZT0.png"  width="450" height="450"> | `brjnrr` | I make a program, however, it depends... |
+| <img src="https://i.imgur.com/7ukurtO.png"  width="450" height="450"> | `brjnrr` | Infinite Cycle |
+| <img src="https://i.imgur.com/J3jW2Vh.png"  width="450" height="450"> | `brjnrr` | That's programming |
 | [hotline](https://drive.google.com/file/d/1XvN_Ft6R2LZAlL571zfhkiXvhntMWfPH/view?usp=sharing) | @lukejanss | classic drake meme |
 | https://raw.githubusercontent.com/gokulz/memetoberfest/meme_image/IMG_20221012_165119%20(1).jpg | @gokulzzzzzzz | How C++ reacts to JAVA ! |
 | <img src="https://user-images.githubusercontent.com/79275152/195405813-fae5cf24-112c-4c84-bdec-3d704a9eb72d.png"  width="450" height="450"> | `snehel4510` | **What's My address😉** |
@@ -80,8 +88,9 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 |![meme]!(https://user-images.githubusercontent.com/63906669/195282130-c07a6724-5a46-4059-a645-c569b6367c6a.png)|[Amruth Acharya] (https://twitter.com/achaamruth) | Pope has praised daily.dev |
 | ![](https://user-images.githubusercontent.com/65576111/195369904-11b40dac-e8b8-47ef-a303-db510caf3dec.jpg)| `@SrNascimento40` | `An awesome creative meme! Never seen before! Dreamed with it and it's genial!!!` |
 | ![meme](https://user-images.githubusercontent.com/51878265/195262580-f2fb43f2-71e0-4d50-afa4-26266eb62395.png)| [Pradumna Saraf](https://twitter.com/pradumna_saraf) | No chrome tabs, only daily.dev tabs |
+| ![Meme](https://user-images.githubusercontent.com/70970530/195259892-84568738-0a05-448f-9f16-44fe4fe2c978.png) | [@heyShubhi](https://twitter.com/heyShubhi) |`Nerd-Joke`|
+| <img height=840 src="https://raw.githubusercontent.com/Rishav-12/memetoberfest/meme-image/spamtoberfest.jpg"> | [@rishavmitra15](https://twitter.com/rishavmitra15) |  |
 | <img width="820" alt="Tweet by Shubhangi ✿" src="https://user-images.githubusercontent.com/70970530/195259892-84568738-0a05-448f-9f16-44fe4fe2c978.png"> | [@heyShubhi](https://twitter.com/heyShubhi) | Link -> <https://twitter.com/heyShubhi/status/1579087531756298240?s=20&t=l9TbzLxn14P3lyUDchM_ag> |
-| <img height=840 src="https://raw.githubusercontent.com/Rishav-12/memetoberfest/meme-image/spamtoberfest.jpg"> | [@rishavmitra15](https://twitter.com/rishavmitra15) | |
 |![Link](https://raw.githubusercontent.com/0-0Rohit-Roshan/0-0Rohit-Roshan/main/Res/I%20am%20the%20__________%20Developer..jpg) | [00RohitRoshan](https://twitter.com/00RohitRoshan) | Figuring out which developer you are. when you do many.
 ![JavaScript Frameworks Meme](https://833250.smushcdn.com/1694534/wp-content/uploads/2021/06/7-768x773.png?lossy=1&strip=1&webp=1)|[@muhib7353](https://twitter.com/muhib7353)| Meme shows Javascript developers are always curious to new frameworks
 | <img src="https://i.ibb.co/wL5jghr/cpp.png" width="500"> | [@aanxand](https://twitter.com/@aanxand) | `A meme that you usually don't see, but can totally relate to as well` |
@@ -91,8 +100,18 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 | ![Meme](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Are-you-a-robot-Meme-1024x925.jpg?x80061) | @iamsajithk | Emotional |
 | ![Computer programmer](https://user-images.githubusercontent.com/25850598/195797347-5f9b9c0d-dcac-4d84-b0d8-b7d7930d13dd.png) | [@terieyenike](https://twitter.com/terieyenike) | Job meme |
 | ![It works](https://user-images.githubusercontent.com/25850598/195799933-313de8c6-3c4e-4d88-b21f-cd7ebd6bc2bd.jpg) | [@terieyenike](https://twitter.com/terieyenike) | It works on my system |
+| <img src="https://pbs.twimg.com/media/FfAdhYmUUAIOUxN?format=jpg&name=900x900" width="500"> | [Harshit Gupta](https://twitter.com/Harshit60886919) | `A meme that you can totally relate to` |
+| ![Desert decision meme, a person would much rather spend more time googling without thinking rather than using debugging tools](https://user-images.githubusercontent.com/78604367/195753173-795ac721-b59c-4c01-bff7-126c8aaa839d.png) | [@20jasper](https://twitter.com/20jasper) |  |
+| ![inspect-page-meme](https://user-images.githubusercontent.com/70577616/195661112-6b5008b6-eb0f-4cbf-b153-f4c06839cf57.png) | [Ruchita](https://twitter.com/_ruchita1010) | When stackoverflow doesn't help, F12 or Ctrl+Shift+I does 😂 |
+| ![Meme](https://github.com/abhaytaras7/memetoberfest-submission/blob/main/dd.png?raw=true) | [@whistle_xd](https://twitter.com/whistle_xd) | SAD |
+| <a href="https://imgflip.com/i/6wrof7"><img src="https://i.imgflip.com/6wrof7.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div> | [@its_SusmitaDey](https://twitter.com/its_SusmitaDey) | Ft. Daily.dev careers |
+| ![JavaScript meme](./meme1.png)| @khair_alanam | A meme on JS :) |
+| ![image](https://user-images.githubusercontent.com/35291614/195594540-c70d6694-befc-40cf-be31-fbc97eb374d9.png) | [@covertgravy](https://twitter.com/covertgravy) | TDD |
+| ![Merge conflict meme](https://user-images.githubusercontent.com/2335145/195585836-85cf4b2c-6ea0-4546-a168-393cb3581815.png) | @axolodev | Nothing | 
+| <img src="https://pbs.twimg.com/media/FLJR82kXwAgnx_h?format=png&name=900x900"  width="450" height="450"> | `ashishk1331` | `Dwag uses semi-colon in python` |
 
 <!-- Add your meme directly above this comment. -->
+
 
 ## Credits
 
