@@ -49,13 +49,10 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 | `<Meme image or link>` | `<Twitter handle>` | `<Notes>` | <!-- Example format. Scroll down to the last row to add your meme. --> |
 | ![joining hacktoberfest](https://i.imgflip.com/6wr5yr.jpg)| [@instincdev](https://twitter.com/instincdev) | Why we REALLY Join Hacktoberfest  |
 | `https://i.redd.it/p9ncboux99h71.jpg` | `@SudhiKrishnaNA1` | `About Googling and Programmers` |
-| ![bug fixing meme](https://user-images.githubusercontent.com/46662771/195576073-2fce22ed-9f3c-4a8e-a69a-be1ef3a38638.jpg)
-| [@frankiefab100](https://twitter.com/frankiefab100) | The moment you are trying to fix a bug while the users think it is working well. |
 | <img src="https://programmerhumor.io/wp-content/uploads/2022/10/programmerhumor-io-python-memes-backend-memes-410c7ab589e5024.jpg" width="450" height="450"/> | [Astrodevil_](https://mobile.twitter.com/astrodevil_) | `This meme is best suitable for newbies in tech.` |
 | `<Meme image or link>` | `<Twitter handle>` | `<Notes>` | <!-- Example format. Scroll down to the last row to add your meme. -->
 | ![meme](https://user-images.githubusercontent.com/91528741/195584369-d0dc7bd2-df91-4f9b-a813-049e3b16f4ac.jpg) | [@\_\_tanan__](https://twitter.com/__tanan__) | you can use this to know if developers are actually dead or just pretending. |
 | ![bug fixing meme](https://user-images.githubusercontent.com/46662771/195576073-2fce22ed-9f3c-4a8e-a69a-be1ef3a38638.jpg) | [@frankiefab100](https://twitter.com/frankiefab100) | The moment you are trying to fix a bug while the users think it is working well. |
-| `https://i.redd.it/p9ncboux99h71.jpg` | `@SudhiKrishnaNA1` | `About Googling and Programmers` |
 | ![image](https://user-images.githubusercontent.com/99729607/195514526-e3fa4397-7862-4d85-9b30-d6ea329b4469.png) | [Ali Reza](https://twitter.com/Ali_Developer05) | `Front-End & Back-End in Real-Life` |
 | <a href="https://imgflip.com/i/6wq0e6"><img src="https://i.imgflip.com/6wq0e6.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div> | [@dejacherese](https://twitter.com/DejaCherese) | <For the love of CSS.> |
 | <img src="https://i.imgur.com/UW0VS0J.jpeg"  width="450"> | @mezerotm | SpongeBob can't resist new frameworks in his project |
@@ -98,6 +95,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 |![Untitled-8-1](https://user-images.githubusercontent.com/32828966/194521151-c5b0f70c-d17b-4357-9de7-114b00d8c598.png)|@MeetwithYash|-|
 |![Meme](https://external-preview.redd.it/Ii1zae7tWgUklTi6eSE_7YHoENA4ngh5abWIEUrA_jU.png?width=640&crop=smart&auto=webp&s=528f29a6ce5b042bb0c827031d46fcfff60f59aa)|@PallaMohammad| N/A |
 | ![Meme](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Are-you-a-robot-Meme-1024x925.jpg?x80061) | @iamsajithk | Emotional |
+| ![Meme](./Image/CSS%20Meme.jpg) | [@captainWaheed43](https://twitter.com/captainWaheed43) | Everytime |
 | ![Meme](./static/toolbar_alexandresc_meme.jpg) | [@alexandrescca](https://twitter.com/alexandrescca) | |
 ![vscode-mad](https://pbs.twimg.com/media/FfYFiUaXEBc2pkX?format=jpg&name=large) | [@turaakk](https://twitter.com/turaakk) | vscode was not happy |
 | ![Meme](https://user-images.githubusercontent.com/80244229/196503105-3106448f-b61e-4795-a484-244b87998ddf.jpeg) | [@ManJo78343025](https://twitter.com/ManJo78343025) | Daily.dev is for developers what peanut is for butter  |
