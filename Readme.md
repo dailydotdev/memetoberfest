@@ -97,6 +97,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 |![Untitled-8-1](https://user-images.githubusercontent.com/32828966/194521151-c5b0f70c-d17b-4357-9de7-114b00d8c598.png)|@MeetwithYash|-|
 |![Meme](https://external-preview.redd.it/Ii1zae7tWgUklTi6eSE_7YHoENA4ngh5abWIEUrA_jU.png?width=640&crop=smart&auto=webp&s=528f29a6ce5b042bb0c827031d46fcfff60f59aa)|@PallaMohammad| N/A |
 | ![Meme](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Are-you-a-robot-Meme-1024x925.jpg?x80061) | @iamsajithk | Emotional |
+| ![Meme](https://i.imgflip.com/5ykse1.jpg) | [GokulZuzumaki](https://twitter.com/GokulZuzumaki) | CI runs are the primary reason for my softcore trauma |
 | ![Meme](https://user-images.githubusercontent.com/76423272/197361333-8a9d5897-fcb5-4954-8292-ea7c4f480cd8.jpeg) | @shoraysinghal | Emotional |
 ![Meme](https://user-images.githubusercontent.com/104122959/197356965-8a784fb2-552e-46db-8a60-8f7b21e74488.png) | @Abubakrce19 | We are not same bro. |
 | ![Adobe_Express_20221022_1510280_1](https://user-images.githubusercontent.com/53627044/197344161-e4e5a3ed-e54b-46b6-b1c4-ebb7e1cb35c9.png) | @Feranmiayomikun | You can use it to advise devs to be 100% sure of what they develop before delivering it out. You're free to ask for the original copy (without my signature/handle on it) |
