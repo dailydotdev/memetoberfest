@@ -98,6 +98,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 |![Untitled-8-1](https://user-images.githubusercontent.com/32828966/194521151-c5b0f70c-d17b-4357-9de7-114b00d8c598.png)|@MeetwithYash|-|
 |![Meme](https://external-preview.redd.it/Ii1zae7tWgUklTi6eSE_7YHoENA4ngh5abWIEUrA_jU.png?width=640&crop=smart&auto=webp&s=528f29a6ce5b042bb0c827031d46fcfff60f59aa)|@PallaMohammad| N/A |
 | ![Meme](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Are-you-a-robot-Meme-1024x925.jpg?x80061) | @iamsajithk | Emotional |
+| ![Meme](https://www.boredpanda.com/blog/wp-content/uploads/2021/12/2-61ae1e704e406__700.jpg) | @KiranRai425 | hacking scene in movie |
 | ![s28zf8y4pea91](https://user-images.githubusercontent.com/77519009/196124080-5e65c82d-df5a-4eea-9869-5f429669bd1a.gif) | [@shivanshx365](https://twitter.com/shivanshx365) | This is how debugging works in real life |
 | ![Screenshot 2022-06-07 111218](https://user-images.githubusercontent.com/101868279/196084805-674bf58e-1c56-40b3-bcc1-9720f85aaa3f.jpg) |[Aarya Chopkar](https://twitter.com/ChopkarAarya) | ```Programmers VS Mathematicians``` |
 | ![image](https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33be8cf4ba7565123c8bc_YPD3ulQQAGQpOcnqIm3QzSTRgzmr1SexpW9ZjMpJ1mAnUxx4iF05XOTu44sk0qQG-8XgBcYmGZGAD-5SAZvJl3TjtmhgWnn-w0C2XKwhBscV78RVvhwZfyp0v_Pa6sNj5zxpOvRW.png) | [Tania Banerjee](https://twitter.com/taniaban2712) | `When the code works fine but you don't understand why` |
