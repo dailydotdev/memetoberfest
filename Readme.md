@@ -98,6 +98,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 |![Untitled-8-1](https://user-images.githubusercontent.com/32828966/194521151-c5b0f70c-d17b-4357-9de7-114b00d8c598.png)|@MeetwithYash|-|
 |![Meme](https://external-preview.redd.it/Ii1zae7tWgUklTi6eSE_7YHoENA4ngh5abWIEUrA_jU.png?width=640&crop=smart&auto=webp&s=528f29a6ce5b042bb0c827031d46fcfff60f59aa)|@PallaMohammad| N/A |
 | ![Meme](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Are-you-a-robot-Meme-1024x925.jpg?x80061) | @iamsajithk | Emotional |
+![vscode-mad](https://pbs.twimg.com/media/FfYFiUaXEBc2pkX?format=jpg&name=large) | [@turaakk](https://twitter.com/turaakk) | vscode was not happy |
 | ![Meme](https://user-images.githubusercontent.com/80244229/196503105-3106448f-b61e-4795-a484-244b87998ddf.jpeg) | [@ManJo78343025](https://twitter.com/ManJo78343025) | Daily.dev is for developers what peanut is for butter  |
 | ![Overthinking error meme](https://user-images.githubusercontent.com/26483958/196428521-2d8b0683-9297-40b6-9219-d004d95f008b.jpg) | @BeeC0des | Error Overthinking Meme, You can not try to solve a bug the next day with a fresh perspective, why because you can never stop thinking about it, Rather (REST Your MIND DEV!)|
 | ![meme](https://res.cloudinary.com/practicaldev/image/fetch/s--Pdde2xfR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/niyebzdpb8dtawlbfuzt.jpg) | [@LeviArista](https://twitter.com/LeviArista) | |
@@ -133,6 +134,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 | ![Merge conflict meme](https://user-images.githubusercontent.com/2335145/195585836-85cf4b2c-6ea0-4546-a168-393cb3581815.png) | @axolodev | Nothing | 
 | <img src="https://pbs.twimg.com/media/FLJR82kXwAgnx_h?format=png&name=900x900"  width="450" height="450"> | `ashishk1331` | `Dwag uses semi-colon in python` |
 | <img src='https://twitter.com/fais18130049/status/1581600359109529607?s=46&t=4c34MdFdLrgKyj78oQ9RPQ'> | @Fais18130049 | Based on the most famous dailogue in an indian movie. |
+
 
 <!-- Add your meme directly above this comment. -->
 
