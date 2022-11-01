@@ -60,6 +60,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 | <img src="https://i.imgur.com/SVm2pu9.png"  width="450" height="450"> | `brjnrr` | Intro to Computing meme **NOR, NAND** |
 | <img src="https://i.imgur.com/XDZXZT0.png"  width="450" height="450"> | `brjnrr` | I make a program, however, it depends... |
 | <img src="https://i.imgur.com/7ukurtO.png"  width="450" height="450"> | `brjnrr` | Infinite Cycle |
+| <img src="https://i.imgur.com/J3jW2Vh.png"  width="450" height="450"> | `brjnrr` | That's programming |
 | [hotline](https://drive.google.com/file/d/1XvN_Ft6R2LZAlL571zfhkiXvhntMWfPH/view?usp=sharing) | @lukejanss | classic drake meme |
 | https://raw.githubusercontent.com/gokulz/memetoberfest/meme_image/IMG_20221012_165119%20(1).jpg | @gokulzzzzzzz | How C++ reacts to JAVA ! |
 | <img src="https://user-images.githubusercontent.com/79275152/195405813-fae5cf24-112c-4c84-bdec-3d704a9eb72d.png"  width="450" height="450"> | `snehel4510` | **What's My address😉** |
