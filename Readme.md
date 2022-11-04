@@ -99,8 +99,8 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 |50| [Link](./Image/production-bug-fix-meme.gif) | [@aashishpanthi11](https://twitter.com/aashishpanthi11) | Different level of satisfaction after fixing a bug on production |
 |51| <img src="https://user-images.githubusercontent.com/91387533/198845554-d7336626-d81f-48b3-b4dc-04a618df2154.jpg" width="200"> | [@emSoumik](https://twitter.com/emSoumik) | A typical day of a programmer's life |
 |52| <img src="https://cdn.ebaumsworld.com/mediaFiles/picture/2502212/86588813.png" width="200">| [goobric Mikal](https://twitter.com/goobric) | Hello World |
-|53| <img src="https://i.imgur.com/f8A2R6S.jpg" width="200"> | @__MoskalykA__ | Small changes in CSS |
-|54| <img src="https://i.imgur.com/f6niBOk.jpg" width="200"> | @__MoskalykA__ | The reaction to the bugs |
+|53| <img src="https://i.imgur.com/f8A2R6S.jpg" width="200"> | [MoskalykA](https://twitter.com/__MoskalykA__) | Small changes in CSS |
+|54| <img src="https://i.imgur.com/f6niBOk.jpg" width="200"> | [MoskalykA](https://twitter.com/__MoskalykA__) | The reaction to the bugs |
 |55| <img src="https://user-images.githubusercontent.com/14253061/198203950-15c95a40-bfd7-4cb1-b62a-da6ae5c06dfe.jpeg" width="200"> | [@ZubeenSyed](https://twitter.com/ZubeenSyed) | You're hired. |
 |56| <img src="https://user-images.githubusercontent.com/14253061/198204058-a646e2de-1057-4c26-8c57-40db9e87a349.jpeg" width="200"> | [@ZubeenSyed](https://twitter.com/ZubeenSyed) | DROP TABLE table_name; |
 |57| <img src="https://user-images.githubusercontent.com/14253061/198204145-6941bd95-4400-401f-ae67-9bd6816ec7e5.jpeg" width="200"> | [@ZubeenSyed](https://twitter.com/ZubeenSyed) | That's just the way we roll or rather traverse |
