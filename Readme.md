@@ -172,6 +172,7 @@ Make sure you [follow daily.dev on Twitter](https://twitter.com/intent/follow?sc
 |123| <img src="https://user-images.githubusercontent.com/2335145/195585836-85cf4b2c-6ea0-4546-a168-393cb3581815.png" width="200"> | @axolodev | Nothing | 
 |124| <img src="https://pbs.twimg.com/media/FLJR82kXwAgnx_h?format=png&name=900x900" width="200"> | `ashishk1331` | `Dwag uses semi-colon in python` |
 |125| [Link](https://twitter.com/Fais18130049/status/1581600359109529607/photo/1) | @Fais18130049 | Based on the most famous dailogue in an indian movie. |
+|126| ![Meme](https://raw.githubusercontent.com/G1Joshi/Assets/main/Meme/Favourite%20Programming%20Language.png) | [Jeevan Joshi](https://twitter.com/G1Joshii) | Favourite Programming Language |
 
 <!-- Add your meme directly above this comment. -->
 
