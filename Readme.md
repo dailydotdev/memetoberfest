@@ -48,6 +48,7 @@ Meme Image or link  | Twitter handle | Notes |
 | `<Meme image or link>` | `<Twitter handle>` | `<Notes>` | <!-- example -->
 | `<Meme image or link>` | `<Twitter handle>` | `<Notes>` |
 | ![](https://imgs.search.brave.com/5u6lt60tf2MIRkbv-ygHqu_2ubycGJUejp4wPVmF8vA/rs:fit:553:500:1/g:ce/aHR0cHM6Ly9pLmlt/Z2ZsaXAuY29tLzQz/ZG94MC5qcGc) | [@PGautam27](https://twitter.com/PGautam27) | I agree to this😂. Cause I never knew what github pro was during my two years of ug and yet I had it 😂😂. |
+| ![](https://imgs.search.brave.com/5u6lt60tf2MIRkbv-ygHqu_2ubycGJUejp4wPVmF8vA/rs:fit:553:500:1/g:ce/aHR0cHM6Ly9pLmlt/Z2ZsaXAuY29tLzQz/ZG94MC5qcGc) | [@PGautam27](https://twitter.com/PGautam27) | I agree to this😂. Cause I never knew what github pro was during my two years of ug and yet I had it 😂😂. |
 | ![Jesulonimii's meme contribution](https://user-images.githubusercontent.com/70331030/195318282-8dc56d8b-0399-4756-b573-3d7adda22384.jpg) | @jesulonimii | me when applying for a remote job 😅 |
 | ![Dunsin's meme submission](https://user-images.githubusercontent.com/78784850/195296809-6624e19e-0ed2-454d-b102-5b4fce7ca1bf.jpg) | `DunsinWebDev` | `ALT: Clowning when building a new project and trying a new tech stack` |
 | `https://savvasstephanides.github.io/bucket/memetoberfest/memetoberfest.gif` | `@SavvasStephnds` | `ALT: Animated female character excitedly waving with eyes and mouth wide open` |
